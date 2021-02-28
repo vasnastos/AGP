@@ -19,7 +19,7 @@
 <li><b>Πρώτη Εργαστηριακή Άσκηση</b></li>
 <ul>
 <li>Παιχνίδι ενός γύρου:<a href="RPS_GAME" target="_blank">SIMPLE GAME</a></li>
-<li>Παιχνίδι με Γραφικό Περιβάλλον:<a href="" target="_blank">SGUI</a></li>
+<li>Παιχνίδι με Γραφικό Περιβάλλον:<a href="SIMPLE_GUI_RPS" target="_blank">SGUI</a></li>
 </ul>
 </ul>
 </body>
