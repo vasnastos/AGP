@@ -14,6 +14,7 @@
 <li>Κανονική έκφραση(mail):<a href="Basics/mail.py" target="_blank">mail regex</a></li>
 <li>Custom Modules:<a href="Basics/modules" target="_blank">Modules</a></li>
 <li>Unit Testing:<a href="Basics/testing.py" target="_blank">Testing</a></li>
+<li>Logging:<a href="Logging.py" target="_blank">Logging</a></li>
 </ul>
 <br>
 <li><b>Πρώτη Εργαστηριακή Άσκηση</b></li>
