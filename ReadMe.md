@@ -2,8 +2,7 @@
 <body>
 <h1>Αρχές Γλωσσών Προγραμματισμού</h1>
 <hr>
-<img src="RESOURCES/py.png" width="100%" height="auto">
-<br><br>
+<img src="RESOURCES/py.png" width="100%" height="450px">
 <ul>
 <li><b>Εισαγωγή στην Python</b></li>
 <ul>
