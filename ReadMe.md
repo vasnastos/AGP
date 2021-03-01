@@ -2,7 +2,7 @@
 <body>
 <h1>Αρχές Γλωσσών Προγραμματισμού</h1>
 <hr>
-<img src="https://lh3.googleusercontent.com/proxy/9uzDHYqnbaXx2kthlJGUJmAhDwhq4rTRmWV2a3rn5egv5Hj1w4Wg43s1gWoW47fRwKy086cHcZFljWiVSWdiJD5bxXJus8uGNUnQ3SMStgt8j9Nuwi50Xrts3S4zS3xIdkGjJ-hmfiOEtbjPBjp3E26G" width="100%" height="auto">
+<img src="https://www.pngrepo.com/download/294241/python.png" width="100%" height="auto">
 <br><br>
 <ul>
 <li><b>Εισαγωγή στην Python</b></li>
