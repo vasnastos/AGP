@@ -1,0 +1,36 @@
+import tkinter as tk
+import random as r
+available=['Rock','Paper','Scissors']
+
+def play(event):
+    entryc.delete(0,'end')
+    entryc.insert(0,'Computer:'+str(available[r.randint(0,2)]))
+    entry.delete(0,'end')
+    entry.insert(0,'Player:'+str(available[r.randint(0,2)]))
+    result.config(text='RPS AGP TASK\nBUTTON BIND EXAMPLE\n'+entry.get()+' VS '+entryc.get())
+
+window=tk.Tk()
+frame=tk.Frame()
+label=tk.Label(master=frame,text='RPS GAME',foreground='black',background='white')
+label.grid(row=0,column=1,pady=5)
+frame_b=tk.Frame()
+labelpl=tk.Label(master=frame_b,text='Player''s Choice',foreground='red',font=21,padx='15',pady='6')
+entry=tk.Entry(master=frame_b)
+button=tk.Button(master=frame_b,text="Play")
+button.bind('<Button-1>',play)
+labelpl.grid(row=1,column=0,padx=5)
+entry.grid(row=1,column=1,padx=5)
+button.grid(row=1,column=2,padx=5)
+frame_c=tk.Frame()
+labelc=tk.Label(master=frame_c,text='Computer''s choice',foreground='red',font=21)
+entryc=tk.Entry(master=frame_c)
+labelc.grid(row=2,column=0,padx=5,pady=10)
+entryc.grid(row=2,column=1,pady=10)
+frame_d=tk.Frame()
+result=tk.Label(master=frame_d,font=21,foreground='blue')
+result.grid(row=3,column=1,pady=10)
+frame.pack()
+frame_b.pack()
+frame_c.pack()
+frame_d.pack()
+window.mainloop()
