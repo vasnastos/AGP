@@ -20,8 +20,8 @@
 <li><b>Πρώτη Εργαστηριακή Άσκηση</b></li>
 <ul>
 <li>Παιχνίδι ενός γύρου:<a href="RPS/RPS_TERMINAL" target="_blank">SIMPLE GAME</a></li>
-<li>Παιχνίδι με Γραφικό Περιβάλλον(WX):<a href="RPS/wxwidgets" target="_blank">WX_GUI</a></li>
-<li>Παιχνίδι με Γραφικό Περιβάλλον(TKinter):<a href="RPS/wxwidgets" target="_blank">TK_GUI</a></li>
+<li>Παιχνίδι με Γραφικό Περιβάλλον(WX):<a href="RPS/wxWidgets" target="_blank">WX_GUI</a></li>
+<li>Παιχνίδι με Γραφικό Περιβάλλον(TKinter):<a href="RPS/RPS_TKINTER" target="_blank">TK_GUI</a></li>
 </ul>
 </ul>
 </body>
