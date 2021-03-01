@@ -27,7 +27,7 @@
 </ul>
  <hr>
   <center>
-  <a href="https://www.freeiconspng.com/img/23827" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/info-icon-23.png" width="20px" height="20px" alt="Info Transparent Png" /></a><b>image link:https://www.pngrepo.com/download/294241/python.png</b>
+ <img src="https://img.icons8.com/cotton/2x/info--v3.png" width="20px;" height="20px;"><b>image link:https://www.pngrepo.com/download/294241/python.png</b>
 </center>
 </body>
 </html>
