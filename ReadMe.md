@@ -2,7 +2,7 @@
 <body>
 <h1>Αρχές Γλωσσών Προγραμματισμού</h1>
 <hr>
-<img src="https://s3-us-west-2.amazonaws.com/hahmoo-us-west-2-prod-wordpress-assets/wp-content/uploads/2019/09/01054150/icon-python-text-color-horz.png" width="100%" height="320px">
+<img src="https://s3-us-west-2.amazonaws.com/hahmoo-us-west-2-prod-wordpress-assets/wp-content/uploads/2019/09/01054150/icon-python-text-color-horz.png" width="100%" height="180px">
 <ul>
 <li><b>Εισαγωγή στην Python</b></li>
 <ul>
