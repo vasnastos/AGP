@@ -2,6 +2,8 @@
 <body>
 <h1>Αρχές Γλωσσών Προγραμματισμού</h1>
 <hr>
+<img src="RESOURCES/py.png" width="100%" height="auto">
+<br><br>
 <ul>
 <li><b>Εισαγωγή στην Python</b></li>
 <ul>
@@ -19,9 +21,14 @@
 <br>
 <li><b>Πρώτη Εργαστηριακή Άσκηση</b></li>
 <ul>
-<li>Παιχνίδι ενός γύρου:<a href="RPS_GAME" target="_blank">SIMPLE GAME</a></li>
-<li>Παιχνίδι με Γραφικό Περιβάλλον:<a href="SIMPLE_GUI_RPS" target="_blank">SGUI</a></li>
+<li>Παιχνίδι ενός γύρου:<a href="RPS/RPS_TERMINAL" target="_blank">SIMPLE GAME</a></li>
+<li>Παιχνίδι με Γραφικό Περιβάλλον(WX):<a href="RPS/wxWidgets" target="_blank">WX_GUI</a></li>
+<li>Παιχνίδι με Γραφικό Περιβάλλον(TKinter):<a href="RPS/RPS_TKINTER" target="_blank">TK_GUI</a></li>
 </ul>
 </ul>
+ <hr>
+  <center>
+  <a href="https://www.freeiconspng.com/img/23827" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/info-icon-23.png" width="20px" height="20px" alt="Info Transparent Png" /></a><b>image link:https://www.pngrepo.com/download/294241/python.png</b>
+</center>
 </body>
 </html>
