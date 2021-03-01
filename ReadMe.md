@@ -2,7 +2,7 @@
 <body>
 <h1>Αρχές Γλωσσών Προγραμματισμού</h1>
 <hr>
-<img src="https://www.pngrepo.com/download/294241/python.png" width="100%" height="auto">
+<img src="RESOURCES/py.png" width="100%" height="auto">
 <br><br>
 <ul>
 <li><b>Εισαγωγή στην Python</b></li>
@@ -26,5 +26,9 @@
 <li>Παιχνίδι με Γραφικό Περιβάλλον(TKinter):<a href="RPS/RPS_TKINTER" target="_blank">TK_GUI</a></li>
 </ul>
 </ul>
+ <hr>
+  <center>
+  <a href="https://www.freeiconspng.com/img/23827" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/info-icon-23.png" width="20px" height="20px" alt="Info Transparent Png" /></a><b>image link:https://www.pngrepo.com/download/294241/python.png</b>
+</center>
 </body>
 </html>
