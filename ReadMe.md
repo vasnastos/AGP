@@ -25,7 +25,7 @@
 <li>Logging:<a href="Basics/Logging.py" target="_blank">Logging</a></li>
 </ul>
  <br>
- <li>Tutorial για χρήση frameworks στην Python></li>
+ <li>Tutorial για χρήση frameworks στην Python</li>
  <ul>
   <li>
    <b>Tutorial:<a href="https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html">https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html</a></b></li>
