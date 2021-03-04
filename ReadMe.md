@@ -20,7 +20,7 @@
  <li>Tutorial για χρήση frameworks στην Python></li>
  <ul>
   <li>
- <b><a href="">Tutorial</b></li>
+   <b>Tutorial:<a href=""></a></b></li>
  </ul>
 <br>
 <li><b>Πρώτη Εργαστηριακή Άσκηση</b></li>
