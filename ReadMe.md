@@ -6,8 +6,8 @@
 <ul>
 <li><b>Εισαγωγή στην Python</b></li>
 <ul>
- <li>Sum Function:<a href="Basics/sum.py">Basics/sum.py</a></li>
- <li>Ternary Operator:<a href="Basics//ternary_operator.py" target="_blank">Basics//ternary_operator.py</a></li>
+ <li>Sum Function:<a href="Basics/sum.py">sum()</a></li>
+ <li>Ternary Operator:<a href="Basics/ternary_operator.py" target="_blank">ternary_operator</a></li>
  <li>Len Function:<a href="Basics/len.py" target="_blank">len()</a></li>
  <li>Dictionary:<a href="Basics/dictionary.py" target="_blank">dictionary</a></li>
  <li>Format:<a href="Basics/format.py" target="_blank">format</a></li>
