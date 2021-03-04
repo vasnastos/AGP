@@ -28,7 +28,7 @@
  <li>Tutorial για χρήση frameworks στην Python></li>
  <ul>
   <li>
-   <b>Tutorial:<a href=""></a></b></li>
+   <b>Tutorial:<a href="https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html">https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html</a></b></li>
  </ul>
 <br>
 <li><b>Πρώτη Εργαστηριακή Άσκηση</b></li>
