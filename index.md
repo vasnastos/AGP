@@ -8,7 +8,7 @@
    <hr>
   <h3>Tutorial για FrameWork στην Python</h3>
      <ul>
-       <li>Tutorial:<a href="./GUI_TUTORIAL/index.html">T</li>
+       <li>Tutorial:<a href="./GUI_TUTORIAL/index.html">https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html</a></li>
   </ul>
    </body>
   </html>
