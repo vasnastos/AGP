@@ -6,6 +6,13 @@
 <ul>
 <li><b>Εισαγωγή στην Python</b></li>
 <ul>
+ <li>Sum Function:<a href="Basics/sum.py">Basics/sum.py</a></li>
+ <li>Ternary Operator:<a href="Basics//ternary_operator.py" target="_blank">Basics//ternary_operator.py</a></li>
+ <li>Len Function:<a href="Basics/len.py" target="_blank">len()</a></li>
+ <li>Dictionary:<a href="Basics/dictionary.py" target="_blank">dictionary</a></li>
+ <li>Format:<a href="Basics/format.py" target="_blank">format</a></li>
+ <li>Comprehensions:<a href="Basics/compehensions.py">compehensions</a></li>
+ <li>Max:<a href="Basics/max.py">max</a></li>
 <li>Αλφαριθμητικά:<a href="Basics/strings.py" target="_blank">strings</a></li>
 <li>Δομή if_else:<a href="Basics/if_else.py" target="_blank">if_else</a></li>
 <li>Αρχεία(txt):<a href="Basics/file(txt)" target="_blank">file folder</a></li>
