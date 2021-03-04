@@ -17,6 +17,7 @@
 <li>Unit Testing:<a href="Basics/testing.py" target="_blank">Testing</a></li>
 <li>Logging:<a href="Basics/Logging.py" target="_blank">Logging</a></li>
 </ul>
+ <br>
  <li>Tutorial για χρήση frameworks στην Python></li>
  <ul>
   <li>
