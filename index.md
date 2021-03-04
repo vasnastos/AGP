@@ -6,7 +6,7 @@
 <body>
   <h1>Αρχές γλωσσών Προγραμματισμού</h1>
    <hr>
-  <h1>Tutorial για FrameWork στην Python</h1>
+  <h3>Tutorial για FrameWork στην Python</h3>
      <ul>
        <li>Tutorial:<a href="./GUI_TUTORIAL/index.html">T</li>
   </ul>
