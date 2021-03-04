@@ -18,7 +18,10 @@
 <li>Logging:<a href="Basics/Logging.py" target="_blank">Logging</a></li>
 </ul>
  <li>Tutorial για χρήση frameworks στην Python></li>
- <b><a href="">Tutorial</b><br>
+ <ul>
+  <li>
+ <b><a href="">Tutorial</b></li>
+ </ul>
 <br>
 <li><b>Πρώτη Εργαστηριακή Άσκηση</b></li>
 <ul>
