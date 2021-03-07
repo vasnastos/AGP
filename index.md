@@ -47,7 +47,7 @@
   <ul>
   <li>Παιχίδι ενός γύρου:<a href="https://github.com/vasnastos/AGP/tree/master/RPS/RPS_TERMINAL" target="_blank"></a><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></li>
   <li>Παιχνίδι με γραφικό περιβάλλον(WX):<a href="https://github.com/vasnastos/AGP/tree/master/RPS/wxWidgets" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a>
-  <li>Παιχνίδι με γραφικό περιβάλλον(TKINTER):<a href="https://github.com/vasnastos/AGP/blob/master/RPS/RPS_TKINTER/gui.py" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a>
+  <li>Παιχνίδι με γραφικό περιβάλλον(TKINTER):<a href="https://github.com/vasnastos/AGP/blob/master/RPS/RPS_TKINTER/gui.py" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a></li>
   </ul>
    </body>
   </html>
