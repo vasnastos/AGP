@@ -24,7 +24,7 @@
  <li>Dictionary:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/dictionary.py" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a></li>
  <li>Format:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/format.py" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a></li>
  <li>Comprehensions:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/compehensions.py"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a></li>
- <li>Max:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/max.py">img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a></li>
+ <li>Max:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/max.py"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a></li>
 <li>Αλφαριθμητικά:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/strings.py" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a></li>
 <li>Δομή if_else:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/if_else.py" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a></li>
 <li>Αρχεία(txt):<a href="https://github.com/vasnastos/AGP/tree/master/Basics/file(txt)" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/forward-solid.png" width="22px" height="22px"></a></li>
