@@ -23,6 +23,8 @@
 <li>Custom Modules:<a href="Basics/modules" target="_blank">Modules</a></li>
 <li>Unit Testing:<a href="Basics/testing.py" target="_blank">Testing</a></li>
 <li>Logging:<a href="Basics/Logging.py" target="_blank">Logging</a></li>
+ <li>Βάση Δεδομένων:<a href="Basics/database.ipynb" target="_blank">Database Notebook</a></li>
+ <li>
 </ul>
  <br>
  <li>Tutorial για χρήση frameworks στην Python</li>
