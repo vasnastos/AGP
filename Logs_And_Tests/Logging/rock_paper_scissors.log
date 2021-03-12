@@ -1,0 +1,83 @@
+2021-03-12 12:38:08,024 - INFO -  *Round 0 exceeded	Result:Player Wins
+
+2021-03-12 12:38:08,025 - INFO - Round_0 score table
+**************************************
+		Player	Computer
+		   1   	0
+---------------------------------------------
+2021-03-12 12:38:08,025 - DEBUG - Process pseudo reduce:584746 pid
+
+
+2021-03-12 12:38:09,088 - INFO -  *Round 1 exceeded	Result:Computer Wins
+
+2021-03-12 12:38:09,088 - INFO - Round_1 score table
+**************************************
+		Player	Computer
+		   1   	1
+---------------------------------------------
+2021-03-12 12:38:09,088 - DEBUG - Process pseudo reduce:576522 pid
+
+
+2021-03-12 12:38:10,184 - INFO -  *Round 2 exceeded	Result:tie
+
+2021-03-12 12:38:10,185 - INFO - Round_2 score table
+**************************************
+		Player	Computer
+		   1   	1
+---------------------------------------------
+2021-03-12 12:38:10,185 - DEBUG - Process pseudo reduce:252291 pid
+
+
+2021-03-12 12:38:11,336 - INFO -  *Round 3 exceeded	Result:tie
+
+2021-03-12 12:38:11,337 - INFO - Round_3 score table
+**************************************
+		Player	Computer
+		   1   	1
+---------------------------------------------
+2021-03-12 12:38:11,337 - DEBUG - Process pseudo reduce:34391 pid
+
+
+2021-03-12 12:38:12,232 - INFO -  *Round 4 exceeded	Result:Player Wins
+
+2021-03-12 12:38:12,233 - INFO - Round_4 score table
+**************************************
+		Player	Computer
+		   2   	1
+---------------------------------------------
+2021-03-12 12:38:12,233 - DEBUG - Process pseudo reduce:290391 pid
+
+
+2021-03-12 12:38:13,296 - INFO -  *Round 5 exceeded	Result:Computer Wins
+
+2021-03-12 12:38:13,297 - INFO - Round_5 score table
+**************************************
+		Player	Computer
+		   2   	2
+---------------------------------------------
+2021-03-12 12:38:13,297 - DEBUG - Process pseudo reduce:87048 pid
+
+
+2021-03-12 12:38:14,088 - INFO -  *Round 6 exceeded	Result:Player Wins
+
+2021-03-12 12:38:14,089 - INFO - Round_6 score table
+**************************************
+		Player	Computer
+		   3   	2
+---------------------------------------------
+2021-03-12 12:38:14,089 - DEBUG - Process pseudo reduce:439537 pid
+
+
+2021-03-12 12:38:14,089 - INFO - After 7 the outcome is:Player Wins
+
+2021-03-12 12:38:14,090 - INFO - Scoretable logging
+		Player	Computer
+------------------------------------------
+	Round_1  [32mR[0m 	  [31mS[0m
+	Round_2  [31mP[0m 	  [32mS[0m
+	Round_3  [34mR[0m 	  [34mR[0m
+	Round_4  [34mS[0m 	  [34mS[0m
+	Round_5  [32mR[0m 	  [31mS[0m
+	Round_6  [31mP[0m 	  [32mS[0m
+	Round_7  [32mR[0m 	  [31mS[0m
+
