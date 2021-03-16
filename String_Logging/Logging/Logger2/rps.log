@@ -1,0 +1,270 @@
+2021-03-12 11:29:40,137 -RPS_Logger -INFO -		   1   	0
+---------------------------------------------
+2021-03-12 11:29:40,138 -RPS_Logger -DEBUG -Process pseudo reduce:624722 pid
+
+
+2021-03-12 11:30:27,857 -RPS_Logger -INFO -Round_0 result
+**************************************
+		Player	Computer
+		   1   	0
+---------------------------------------------
+2021-03-12 11:30:27,858 -RPS_Logger -DEBUG -Process pseudo reduce:480803 pid
+
+
+2021-03-12 11:31:18,577 -RPS_Logger -INFO -
+*Round 1 exceeded	Result:Computer Wins
+
+2021-03-12 11:31:18,577 -RPS_Logger -INFO -Round_1 result
+**************************************
+		Player	Computer
+		   1   	1
+---------------------------------------------
+2021-03-12 11:31:18,577 -RPS_Logger -DEBUG -Process pseudo reduce:923057 pid
+
+
+2021-03-12 11:32:23,568 -RPS_Logger -INFO -Round_2 result
+**************************************
+		Player	Computer
+		   2   	1
+---------------------------------------------
+2021-03-12 11:32:23,569 -RPS_Logger -DEBUG -Process pseudo reduce:629097 pid
+
+
+2021-03-12 11:32:25,080 -RPS_Logger -INFO -Round_3 result
+**************************************
+		Player	Computer
+		   2   	1
+---------------------------------------------
+2021-03-12 11:32:25,080 -RPS_Logger -DEBUG -Process pseudo reduce:141876 pid
+
+
+2021-03-12 11:32:29,744 -RPS_Logger -INFO -Round_0 result
+**************************************
+		Player	Computer
+		   1   	0
+---------------------------------------------
+2021-03-12 11:32:29,745 -RPS_Logger -DEBUG -Process pseudo reduce:440359 pid
+
+
+2021-03-12 11:33:23,784 -RPS_Logger -INFO - *Round 1 exceeded	Result:Computer Wins
+
+2021-03-12 11:33:23,785 -RPS_Logger -INFO -Round_1 result
+**************************************
+		Player	Computer
+		   0   	1
+---------------------------------------------
+2021-03-12 11:33:23,785 -RPS_Logger -DEBUG -Process pseudo reduce:392347 pid
+
+
+2021-03-12 11:33:55,560 -RPS_Logger -INFO - *Round 2 exceeded	Result:tie
+
+2021-03-12 11:33:55,560 -RPS_Logger -INFO -Round_2 result
+**************************************
+		Player	Computer
+		   0   	1
+---------------------------------------------
+2021-03-12 11:33:55,561 -RPS_Logger -DEBUG -Process pseudo reduce:36843 pid
+
+
+2021-03-12 11:34:06,552 -RPS_Logger -INFO - *Round 3 exceeded	Result:Player Wins
+
+2021-03-12 11:34:06,552 -RPS_Logger -INFO -Round_3 result
+**************************************
+		Player	Computer
+		   1   	1
+---------------------------------------------
+2021-03-12 11:34:06,552 -RPS_Logger -DEBUG -Process pseudo reduce:638579 pid
+
+
+2021-03-12 11:34:10,512 -RPS_Logger -INFO - *Round 4 exceeded	Result:tie
+
+2021-03-12 11:34:10,512 -RPS_Logger -INFO -Round_4 result
+**************************************
+		Player	Computer
+		   1   	1
+---------------------------------------------
+2021-03-12 11:34:10,512 -RPS_Logger -DEBUG -Process pseudo reduce:132001 pid
+
+
+2021-03-12 11:34:46,960 -RPS_Logger -INFO - *Round 1 exceeded	Result:tie
+
+2021-03-12 11:34:46,960 -RPS_Logger -INFO -Round_1 score table
+**************************************
+		Player	Computer
+		   0   	0
+---------------------------------------------
+2021-03-12 11:34:46,960 -RPS_Logger -DEBUG -Process pseudo reduce:547892 pid
+
+
+2021-03-12 11:34:49,056 -RPS_Logger -INFO - *Round 2 exceeded	Result:Player Wins
+
+2021-03-12 11:34:49,056 -RPS_Logger -INFO -Round_2 score table
+**************************************
+		Player	Computer
+		   1   	0
+---------------------------------------------
+2021-03-12 11:34:49,056 -RPS_Logger -DEBUG -Process pseudo reduce:294606 pid
+
+
+2021-03-12 11:34:50,480 -RPS_Logger -INFO - *Round 3 exceeded	Result:tie
+
+2021-03-12 11:34:50,480 -RPS_Logger -INFO -Round_3 score table
+**************************************
+		Player	Computer
+		   1   	0
+---------------------------------------------
+2021-03-12 11:34:50,480 -RPS_Logger -DEBUG -Process pseudo reduce:348778 pid
+
+
+2021-03-12 11:34:51,712 -RPS_Logger -INFO - *Round 4 exceeded	Result:tie
+
+2021-03-12 11:34:51,712 -RPS_Logger -INFO -Round_4 score table
+**************************************
+		Player	Computer
+		   1   	0
+---------------------------------------------
+2021-03-12 11:34:51,712 -RPS_Logger -DEBUG -Process pseudo reduce:218606 pid
+
+
+2021-03-12 11:34:55,624 -RPS_Logger -INFO - *Round 5 exceeded	Result:Player Wins
+
+2021-03-12 11:34:55,624 -RPS_Logger -INFO -Round_5 score table
+**************************************
+		Player	Computer
+		   2   	0
+---------------------------------------------
+2021-03-12 11:34:55,624 -RPS_Logger -DEBUG -Process pseudo reduce:671718 pid
+
+
+2021-03-12 11:34:57,640 -RPS_Logger -INFO - *Round 6 exceeded	Result:Player Wins
+
+2021-03-12 11:34:57,640 -RPS_Logger -INFO -Round_6 score table
+**************************************
+		Player	Computer
+		   3   	0
+---------------------------------------------
+2021-03-12 11:34:57,640 -RPS_Logger -DEBUG -Process pseudo reduce:938484 pid
+
+
+2021-03-12 11:35:00,064 -RPS_Logger -INFO - *Round 7 exceeded	Result:Computer Wins
+
+2021-03-12 11:35:00,064 -RPS_Logger -INFO -Round_7 score table
+**************************************
+		Player	Computer
+		   3   	1
+---------------------------------------------
+2021-03-12 11:35:00,064 -RPS_Logger -DEBUG -Process pseudo reduce:382655 pid
+
+
+2021-03-12 11:35:01,320 -RPS_Logger -INFO - *Round 8 exceeded	Result:Computer Wins
+
+2021-03-12 11:35:01,320 -RPS_Logger -INFO -Round_8 score table
+**************************************
+		Player	Computer
+		   3   	2
+---------------------------------------------
+2021-03-12 11:35:01,320 -RPS_Logger -DEBUG -Process pseudo reduce:378559 pid
+
+
+2021-03-12 11:35:02,360 -RPS_Logger -INFO - *Round 9 exceeded	Result:Computer Wins
+
+2021-03-12 11:35:02,360 -RPS_Logger -INFO -Round_9 score table
+**************************************
+		Player	Computer
+		   3   	3
+---------------------------------------------
+2021-03-12 11:35:02,360 -RPS_Logger -DEBUG -Process pseudo reduce:717514 pid
+
+
+2021-03-12 11:35:03,560 -RPS_Logger -INFO - *Round 10 exceeded	Result:Player Wins
+
+2021-03-12 11:35:03,560 -RPS_Logger -INFO -Round_10 score table
+**************************************
+		Player	Computer
+		   4   	3
+---------------------------------------------
+2021-03-12 11:35:03,560 -RPS_Logger -DEBUG -Process pseudo reduce:730556 pid
+
+
+2021-03-12 11:35:05,432 -RPS_Logger -INFO - *Round 11 exceeded	Result:Player Wins
+
+2021-03-12 11:35:05,432 -RPS_Logger -INFO -Round_11 score table
+**************************************
+		Player	Computer
+		   5   	3
+---------------------------------------------
+2021-03-12 11:35:05,432 -RPS_Logger -DEBUG -Process pseudo reduce:32574 pid
+
+
+2021-03-12 11:35:07,128 -RPS_Logger -INFO - *Round 12 exceeded	Result:Player Wins
+
+2021-03-12 11:35:07,128 -RPS_Logger -INFO -Round_12 score table
+**************************************
+		Player	Computer
+		   6   	3
+---------------------------------------------
+2021-03-12 11:35:07,128 -RPS_Logger -DEBUG -Process pseudo reduce:581529 pid
+
+
+2021-03-12 11:35:08,192 -RPS_Logger -INFO - *Round 13 exceeded	Result:Computer Wins
+
+2021-03-12 11:35:08,192 -RPS_Logger -INFO -Round_13 score table
+**************************************
+		Player	Computer
+		   6   	4
+---------------------------------------------
+2021-03-12 11:35:08,192 -RPS_Logger -DEBUG -Process pseudo reduce:789646 pid
+
+
+2021-03-12 11:35:09,168 -RPS_Logger -INFO - *Round 14 exceeded	Result:Player Wins
+
+2021-03-12 11:35:09,168 -RPS_Logger -INFO -Round_14 score table
+**************************************
+		Player	Computer
+		   7   	4
+---------------------------------------------
+2021-03-12 11:35:09,168 -RPS_Logger -DEBUG -Process pseudo reduce:22290 pid
+
+
+2021-03-12 11:35:10,520 -RPS_Logger -INFO - *Round 15 exceeded	Result:tie
+
+2021-03-12 11:35:10,520 -RPS_Logger -INFO -Round_15 score table
+**************************************
+		Player	Computer
+		   7   	4
+---------------------------------------------
+2021-03-12 11:35:10,520 -RPS_Logger -DEBUG -Process pseudo reduce:842593 pid
+
+
+2021-03-12 11:35:12,904 -RPS_Logger -INFO - *Round 16 exceeded	Result:Player Wins
+
+2021-03-12 11:35:12,904 -RPS_Logger -INFO -Round_16 score table
+**************************************
+		Player	Computer
+		   8   	4
+---------------------------------------------
+2021-03-12 11:35:12,904 -RPS_Logger -DEBUG -Process pseudo reduce:89669 pid
+
+
+2021-03-12 11:35:14,088 -RPS_Logger -INFO - *Round 17 exceeded	Result:Player Wins
+
+2021-03-12 11:35:14,088 -RPS_Logger -INFO -Round_17 score table
+**************************************
+		Player	Computer
+		   9   	4
+---------------------------------------------
+2021-03-12 11:35:14,088 -RPS_Logger -DEBUG -Process pseudo reduce:730368 pid
+
+
+2021-03-12 11:35:15,256 -RPS_Logger -INFO - *Round 18 exceeded	Result:tie
+
+2021-03-12 11:35:15,256 -RPS_Logger -INFO -Round_18 score table
+**************************************
+		Player	Computer
+		   9   	4
+---------------------------------------------
+2021-03-12 11:35:15,256 -RPS_Logger -DEBUG -Process pseudo reduce:443424 pid
+
+
+2021-03-12 11:35:15,256 -RPS_Logger -INFO -After 19 the outcome is:Player Wins
+

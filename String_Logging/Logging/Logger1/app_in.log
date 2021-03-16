@@ -1,0 +1,60 @@
+2021-03-12 09:49:23,635 - App_tester - INFO - file:sample0.txt found
+   *Lines:7917
+   *File Size:438210Kb
+2021-03-12 09:49:23,635 - App_tester - DEBUG - loggind level function with id:181563 exceeded succesfully
+
+
+2021-03-12 09:49:23,635 - App_tester - INFO - file:sample4.txt not found
+2021-03-12 09:49:23,636 - App_tester - DEBUG - loggind level function with id:756516 exceeded succesfully
+
+
+2021-03-12 09:49:23,636 - App_tester - INFO - file:sample8.txt found
+   *Lines:2882
+   *File Size:117131Kb
+2021-03-12 09:49:23,636 - App_tester - DEBUG - loggind level function with id:292311 exceeded succesfully
+
+
+2021-03-12 09:49:23,636 - App_tester - INFO - file:sample1.txt found
+   *Lines:650
+   *File Size:31200Kb
+2021-03-12 09:49:23,636 - App_tester - DEBUG - loggind level function with id:581913 exceeded succesfully
+
+
+2021-03-12 09:49:23,636 - App_tester - INFO - file:sample5.txt not found
+2021-03-12 09:49:23,636 - App_tester - DEBUG - loggind level function with id:754701 exceeded succesfully
+
+
+2021-03-12 09:49:23,636 - App_tester - INFO - file:sample9.txt not found
+2021-03-12 09:49:23,636 - App_tester - DEBUG - loggind level function with id:135157 exceeded succesfully
+
+
+2021-03-12 09:49:23,638 - App_tester - INFO - file:sample2.txt found
+   *Lines:9502
+   *File Size:399177Kb
+2021-03-12 09:49:23,638 - App_tester - DEBUG - loggind level function with id:241691 exceeded succesfully
+
+
+2021-03-12 09:49:23,639 - App_tester - INFO - file:sample6.txt not found
+2021-03-12 09:49:23,639 - App_tester - DEBUG - loggind level function with id:448770 exceeded succesfully
+
+
+2021-03-12 09:49:23,640 - App_tester - INFO - file:sample10.txt found
+   *Lines:19289
+   *File Size:930077Kb
+2021-03-12 09:49:23,641 - App_tester - DEBUG - loggind level function with id:848605 exceeded succesfully
+
+
+2021-03-12 09:49:23,641 - App_tester - INFO - file:sample3.txt found
+   *Lines:2154
+   *File Size:107328Kb
+2021-03-12 09:49:23,641 - App_tester - DEBUG - loggind level function with id:160329 exceeded succesfully
+
+
+2021-03-12 09:49:23,641 - App_tester - INFO - file:sample7.txt not found
+2021-03-12 09:49:23,641 - App_tester - DEBUG - loggind level function with id:655855 exceeded succesfully
+
+
+2021-03-12 09:49:23,641 - App_tester - INFO - file:sample11.txt not found
+2021-03-12 09:49:23,641 - App_tester - DEBUG - loggind level function with id:255253 exceeded succesfully
+
+
