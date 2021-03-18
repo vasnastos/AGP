@@ -57,7 +57,7 @@
   <br>
   <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px">Πρώτη Εργαστηριακή Άσκηση<a href="https://chgogos.github.io/dituoi_agp/resources/agp_assignment20210225.pdf"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="20px" height="20px"></a></h2>
   <ul>
-  <li>Παιχίδι ενός γύρου:<a href="https://github.com/vasnastos/AGP/tree/master/RPS/RPS_TERMINAL" target="_blank"></a><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></li>
+  <li>Παιχίδι ενός γύρου:<a href="https://github.com/vasnastos/AGP/tree/master/RPS/RPS_TERMINAL" target="_blank"></a><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" class="generalimage" width="22px" height="22px"></li>
   <li>Παιχνίδι με γραφικό περιβάλλον(WX):<a href="https://github.com/vasnastos/AGP/tree/master/RPS/wxWidgets" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
   <li>Παιχνίδι με γραφικό περιβάλλον(TKINTER):<a href="https://github.com/vasnastos/AGP/blob/master/RPS/RPS_TKINTER/gui.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
   </ul>
