@@ -51,7 +51,7 @@
   <ul>
    <li>Logging:<a href="https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/logging.ipynb" target="_blank">https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/logging.ipynb</a></li>
     <li>Lambdas:<a href="https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/lambdas.ipynb" target="_blank">https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/lambdas.ipynb</a></li>
-     <li><a href="https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/sorting.ipynb" target="_blank">Sorting:https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/sorting.ipynb</a></li>
+     <li>Sorting:<a href="https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/sorting.ipynb" target="_blank">https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/sorting.ipynb</a></li>
    </ul>
   </ul>
 </ul>
