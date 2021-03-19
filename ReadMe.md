@@ -39,6 +39,12 @@
 <li>Παιχνίδι με Γραφικό Περιβάλλον(WX):<a href="RPS/wxWidgets" target="_blank">WX_GUI</a></li>
 <li>Παιχνίδι με Γραφικό Περιβάλλον(TKinter):<a href="RPS/RPS_TKINTER" target="_blank">TK_GUI</a></li>
 </ul>
+ <li><b>Μαθήματα</b></li>
+ <ul>
+  <li>L01</li>
+  <li>L02</li>
+  <li>L03</li>
+  </ul>
 </ul>
  <hr>
   <center>
