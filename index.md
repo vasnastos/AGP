@@ -61,5 +61,12 @@
   <li>Παιχνίδι με γραφικό περιβάλλον(WX):<a href="https://github.com/vasnastos/AGP/tree/master/RPS/wxWidgets" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
   <li>Παιχνίδι με γραφικό περιβάλλον(TKINTER):<a href="https://github.com/vasnastos/AGP/blob/master/RPS/RPS_TKINTER/gui.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
   </ul>
+  <br>
+  <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px">ΕΝΙΣΧΥΤΙΚΑ</h2>
+  <ul>
+  <li>Ενισχυτικό 1:<a href=""></a></li>
+  <li>Ενισχυτικό 1:<a href=""></a></li>
+  <li>Ενισχυτικό 3:<a href="./L03/lesson_3.html">L3</a></li>
+  </ul>
    </body>
   </html>
