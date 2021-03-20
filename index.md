@@ -66,13 +66,6 @@
        <li>Tutorial:<a href="./GUI_TUTORIAL/index.html">https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html</a></li>
   </ul>
   <br>
-  <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px">Πρώτη Εργαστηριακή Άσκηση<a href="https://chgogos.github.io/dituoi_agp/resources/agp_assignment20210225.pdf"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="20px" height="20px"></a></h2>
-  <ul>
-  <li>Παιχίδι ενός γύρου:<a href="https://github.com/vasnastos/AGP/tree/master/RPS/RPS_TERMINAL" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
-  <li>Παιχνίδι με γραφικό περιβάλλον(WX):<a href="https://github.com/vasnastos/AGP/tree/master/RPS/wxWidgets" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
-  <li>Παιχνίδι με γραφικό περιβάλλον(TKINTER):<a href="https://github.com/vasnastos/AGP/blob/master/RPS/RPS_TKINTER/gui.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
-  </ul>
-  <br>
   <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px">ΕΝΙΣΧΥΤΙΚΑ</h2>
   <ul>
   <li>Ενισχυτικό 1:<a href="#"><i class="fa fa-university">Lesson</i></a></li>
