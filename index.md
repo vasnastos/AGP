@@ -2,6 +2,7 @@
   <meta charset='utf-8'>
 <head>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <title>Αρχες Γλωσσών Προγραμματισμού</title>
   <style>
@@ -21,6 +22,16 @@
     {
       color:current;
     }
+    .fa-codepen
+    {
+        width:45px;
+        height:25px;
+    }
+    .fa-codepen:hover
+    {
+        background-color:blue;
+        color:white;
+    }
   </style>
   </head>
 <body>
@@ -30,24 +41,24 @@
    <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px">Εισαγωγή στην Python</h2>
    <hr>
    <ul>
- <li>Sum Function:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/sum.py"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
- <li>Ternary Operator:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/ternary_operator.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
- <li>Len Function:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/len.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
- <li>Dictionary:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/dictionary.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
- <li>Format:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/format.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
- <li>Comprehensions:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/compehensions.py"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
- <li>Max:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/max.py"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Αλφαριθμητικά:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/strings.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Δομή if_else:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/if_else.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Αρχεία(txt):<a href="https://github.com/vasnastos/AGP/tree/master/Basics/file(txt)" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Αρχεία(csv):<a href="https://github.com/vasnastos/AGP/tree/master/Basics/file(csv)" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Κλάσεις:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/class.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Συνδεδεμένη λίστα:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/linked_list.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Κανονική έκφραση(mail):<a href="https://github.com/vasnastos/AGP/blob/master/Basics/mail.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Custom Modules:<a href="https://github.com/vasnastos/AGP/tree/master/Basics/modules" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Unit Testing:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/testing.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-<li>Logging:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/Logging.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
- <li>Βάση Δεδομένων:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/database.ipynb" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
+ <li>Sum Function:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/sum.py"><i class="fa fa-codepen">Code</i></a></li>
+ <li>Ternary Operator:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/ternary_operator.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+ <li>Len Function:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/len.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+ <li>Dictionary:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/dictionary.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+ <li>Format:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/format.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+ <li>Comprehensions:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/compehensions.py"><i class="fa fa-codepen">Code</i></a></li>
+ <li>Max:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/max.py"><i class="fa fa-codepen">Code</i></a></li>
+<li>Αλφαριθμητικά:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/strings.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+<li>Δομή if_else:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/if_else.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+<li>Αρχεία(txt):<a href="https://github.com/vasnastos/AGP/tree/master/Basics/file(txt)" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+<li>Αρχεία(csv):<a href="https://github.com/vasnastos/AGP/tree/master/Basics/file(csv)" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+<li>Κλάσεις:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/class.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+<li>Συνδεδεμένη λίστα:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/linked_list.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+<li>Κανονική έκφραση(mail):<a href="https://github.com/vasnastos/AGP/blob/master/Basics/mail.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+<li>Custom Modules:<a href="https://github.com/vasnastos/AGP/tree/master/Basics/modules" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+<li>Unit Testing:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/testing.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+<li>Logging:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/Logging.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+ <li>Βάση Δεδομένων:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/database.ipynb" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
 </ul>
 <br>
   <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px">Tutorial για FrameWork στην Python</h2>
@@ -57,16 +68,16 @@
   <br>
   <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px">Πρώτη Εργαστηριακή Άσκηση<a href="https://chgogos.github.io/dituoi_agp/resources/agp_assignment20210225.pdf"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="20px" height="20px"></a></h2>
   <ul>
-  <li>Παιχίδι ενός γύρου:<a href="https://github.com/vasnastos/AGP/tree/master/RPS/RPS_TERMINAL" target="_blank"></a><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" class="generalimage" width="22px" height="22px"></li>
-  <li>Παιχνίδι με γραφικό περιβάλλον(WX):<a href="https://github.com/vasnastos/AGP/tree/master/RPS/wxWidgets" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
-  <li>Παιχνίδι με γραφικό περιβάλλον(TKINTER):<a href="https://github.com/vasnastos/AGP/blob/master/RPS/RPS_TKINTER/gui.py" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/pittogrammi/142/95-512.png" width="22px" height="22px"></a></li>
+  <li>Παιχίδι ενός γύρου:<a href="https://github.com/vasnastos/AGP/tree/master/RPS/RPS_TERMINAL" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+  <li>Παιχνίδι με γραφικό περιβάλλον(WX):<a href="https://github.com/vasnastos/AGP/tree/master/RPS/wxWidgets" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
+  <li>Παιχνίδι με γραφικό περιβάλλον(TKINTER):<a href="https://github.com/vasnastos/AGP/blob/master/RPS/RPS_TKINTER/gui.py" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
   </ul>
   <br>
   <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px">ΕΝΙΣΧΥΤΙΚΑ</h2>
   <ul>
-  <li>Ενισχυτικό 1:<a href=""></a></li>
-  <li>Ενισχυτικό 1:<a href=""></a></li>
-  <li>Ενισχυτικό 3:<a href="./L03/lesson_3.html">L3</a></li>
+  <li>Ενισχυτικό 1:<a href="#"><i class="fa fa-university">Lesson</i></a></li>
+  <li>Ενισχυτικό 2:<a href="#"><i class="fa fa-university">Lesson</i></a></li>
+  <li>Ενισχυτικό 3:<a href="./L03/lesson_3.html"><i class="fa fa-university">Lesson</i></a></li>
   </ul>
    </body>
   </html>
