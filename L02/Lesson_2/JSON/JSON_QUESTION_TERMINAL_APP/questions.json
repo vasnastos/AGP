@@ -1,0 +1,140 @@
+{
+    "quiz": {
+        "sport": {
+            "q1": {
+                "question": "Which one is correct team name in NBA?",
+                "options": [
+                    "New York Bulls",
+                    "Los Angeles Kings",
+                    "Golden State Warriros",
+                    "Houston Rockets"
+                ],
+                "answer": "Houston Rockets"
+            }
+        },
+        "maths": {
+            "q1": {
+                "question": "5 + 7 = ?",
+                "options": [
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "answer": "12"
+            },
+            "q2": {
+                "question": "12 - 8 = ?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "answer": "4"
+            }
+        },
+        "computer_science":{
+            "q1":{
+                "question": "Consider the following statements:\n1. HTTP is a communication protocol, which is used to connect to Web servers on the Internet as well as on a local network (i.e. intranet).\n2. The essential function of HTTP is to establish a connection with the server and send HTML pages back to the user's browser by using logical links (or hyperlinks) between nodes containing text.Choose the correct answer from the codes given below:",
+                "options":[
+                    "Only 1",
+                    "Only 2",
+                    "Both",
+                    "Neither 1 nor 2"
+                ],
+                "answer":"Both"
+            },
+            "q2":{
+                "question":"Who among the following has designed the Erlang programing language?",
+                "options":[
+                    "Larry Wall",
+                    "Guido van Rossum",
+                    "Joe Armstrong",
+                    "Yukihiro Matsumoto"
+                ],
+                "answer":"Joe Armstrong"
+            },
+            "q3":{
+                "question":"To store data and perform calculation, computer uses _______ number system.",
+                "options":[
+                    "Hecxadecimal",
+                    "Octadecimal",
+                    "Binary",
+                    "Decimal"
+                ],
+                "answer":"Binary"
+            },
+            "q4":{
+                "question":"Which among the following works faster?",
+                "options":[
+                    "RAM",
+                    "Cache",
+                    "Register",
+                    "ROM"
+                ],
+                "answer":"Cache"
+            },
+            "q5":{
+                "question":"Which among the following correctly expresses the term ‘Junk Email?",
+                "options":[
+                    "Virus",
+                    "Spam",
+                    "Promotional email",
+                    "Spoof"
+                ],
+                "answer":"Spam"
+            },
+            "q6":{
+                "question":"Which among the following correctly defines LINUX?",
+                "options":[
+                    "Open source operating system",
+                    "Close source operating system",
+                    "It is highly efficient software for computer programing",
+                    " It is a Trojan"
+                ],
+                "answer":"Open source operating system"
+            },
+            "q7":{
+                "question":"Who among the following is more popular as the first computer programmer?",
+                "options":[
+                    "Ada Lovelace",
+                    "Adam Osborne",
+                    "Adi Shamir",
+                    "Alain Glavieux"
+                ],
+                "answer":"Ada Lovelace"
+            },
+            "q8":{
+                "question":"The information stored in a computer is known as …",
+                "options":[
+                    "Facts",
+                    "Files",
+                    "Data",
+                    "Directory or repository"
+                ],
+                "answer":"Data"
+            },
+            "q9":{
+                "question":"Which one of the following language is developed by Microsoft?",
+                "options":[
+                    "Java",
+                    "C Sharp",
+                    "DCL",
+                    "SHELL"
+                ],
+                "answer":"C Sharp"
+            },
+            "q10":{
+                "question":"1 Megabyte (Mb) =",
+                "options":[
+                    "1,024 Kb",
+                    "1,000 Kb",
+                    "1,200 Kb",
+                    "1,275 Kb"
+                ],
+                "answer":"1,024 Kb"
+            }
+        }
+    }
+}
