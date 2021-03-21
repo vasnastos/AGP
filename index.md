@@ -69,7 +69,7 @@
   <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px">ΕΝΙΣΧΥΤΙΚΑ</h2>
   <ul>
   <li>Ενισχυτικό 1:<a href="#"><i class="fa fa-university">Lesson</i></a></li>
-  <li>Ενισχυτικό 2:<a href="#"><i class="fa fa-university">Lesson</i></a></li>
+  <li>Ενισχυτικό 2:<a href="./L02/lesson_2.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 3:<a href="./L03/lesson_3.html"><i class="fa fa-university">Lesson</i></a></li>
   </ul>
    </body>
