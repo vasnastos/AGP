@@ -40,10 +40,10 @@
 <li>Παιχνίδι με Γραφικό Περιβάλλον(TKinter):<a href="RPS/RPS_TKINTER" target="_blank">TK_GUI</a></li>
 </ul>
  <br>
-<a href="https://vasnastos.github.io/AGP/"><img src="https://img.icons8.com/ios/452/domain.png" width="25px" height=25px>WebSite</a><br>
+<a href="https://icons-for-free.com/iconfiles/png/512/internet+web+website+icon-1320183419780460914.png"><img src="https://img.icons8.com/ios/452/domain.png" width="25px" height=25px>WebSite</a><br>
  <hr>
   <center>
- <b><img src="https://icons-for-free.com/iconfiles/png/512/internet+web+website+icon-1320183419780460914.png" width="20px" height="20px"/>Image link:https://www.pngrepo.com/download/294241/python.png</b>
+ <b><img src="https://www.freeiconspng.com/thumbs/info-icon/info-icon-6.png" width="20px" height="20px"/>Image link:https://www.pngrepo.com/download/294241/python.png</b>
 </center>
 </body>
 </html>
