@@ -40,21 +40,7 @@
 <li>Παιχνίδι με Γραφικό Περιβάλλον(TKinter):<a href="RPS/RPS_TKINTER" target="_blank">TK_GUI</a></li>
 </ul>
  <br>
- <li><b>Μαθήματα</b></li>
- <ul>
-  <li>L01</li>
-  <li>L02</li>
-  <ul>
-   <li>Source:<a href="https://github.com/vasnastos/AGP/tree/master/LESSON_SOURCES/L02" target="_blank">https://github.com/vasnastos/AGP/tree/master/LESSON_SOURCES/L02</a></li>
-  </ul>
-  <li>L03</li>
-  <ul>
-   <li>Logging:<a href="https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/logging.ipynb" target="_blank">https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/logging.ipynb</a></li>
-    <li>Lambdas:<a href="https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/lambdas.ipynb" target="_blank">https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/lambdas.ipynb</a></li>
-     <li>Sorting:<a href="https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/sorting.ipynb" target="_blank">https://github.com/vasnastos/AGP/blob/master/LESSON_SOURCES/L03/sorting.ipynb</a></li>
-   </ul>
-  </ul>
-</ul>
+<a href="https://vasnastos.github.io/AGP/"><img src="https://img.icons8.com/ios/452/domain.png" width="25px" height=25px>WebSite</a><br>
  <hr>
   <center>
  <b><img src="https://img.icons8.com/cotton/2x/info--v3.png" width="20px" height="20px"/>Image link:https://www.pngrepo.com/download/294241/python.png</b>
