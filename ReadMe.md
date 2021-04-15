@@ -38,7 +38,7 @@
  <li>Πρώτη εργασία:<a href="ASSIGNMENT_1">Assignment_1</a></li>
  <li>Παιχνίδι βασισμένο σε MockUp σχεδιάγραμμα:<a href="RPS_MockUp">Qt MockUp Based</a></li>
 </ul><br>
- <li><b>Δεύτερη Εργασία</b></li>
+ <li><b>Δεύτερη Εργαστιριακή Άσκηση</b></li>
  <ul>
   <li>Regex CheatSheet:<a href="https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/">Cheatsheet</a></li>
   <li>Εκφώνηση Εργασίας:<a href="https://chgogos.github.io/dituoi_agp/resources/agp_assignment20210329.pdf">github_Regex</a></li>
