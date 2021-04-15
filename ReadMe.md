@@ -37,7 +37,7 @@
 <ul>
  <li>Πρώτη εργασία:<a href="Assignment_1">Assignment_1</a></li>
  <li>Παιχνίδι βασισμένο σε MockUp σχεδιάγραμμα:<a href="RPS_MockUp">Qt MockUp Based</a></li>
-</ul>
+</ul><br>
  <li><b>Δεύτερη Εργασία</b></li>
  <ul>
   <li>Regex CheatSheet:<a href="https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/">Cheatsheet</a></li>
