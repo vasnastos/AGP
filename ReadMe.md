@@ -2,7 +2,7 @@
 <body>
 <h1>Αρχές Γλωσσών Προγραμματισμού</h1>
 <hr>
-<img src="https://s3-us-west-2.amazonaws.com/hahmoo-us-west-2-prod-wordpress-assets/wp-content/uploads/2019/09/01054150/icon-python-text-color-horz.png" width="100%" height="180px">
+<img src="https://s3-us-west-2.amazonaws.com/hahmoo-us-west-2-prod-wordpress-assets/wp-content/uploads/2019/09/01054150/icon-python-text-color-horz.png" width="100%" height="250px">
 <ul>
 <li><b>Εισαγωγή στην Python</b></li>
 <ul>
@@ -42,7 +42,7 @@
  <ul>
   <li>Regex CheatSheet:<a href="https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/">Cheatsheet</a></li>
   <li>Εκφώνηση Εργασίας:<a href="https://chgogos.github.io/dituoi_agp/resources/agp_assignment20210329.pdf">github_Regex</a></li>
-  <li>Σελίδα Εργασίας:<a href="">github page</a></li>
+  <li>Σελίδα Εργασίας:<a href="https://vasnastos.github.io/Assignment_AGP/">github page</a></li>
  </ul>
    <br>
  </ul>
