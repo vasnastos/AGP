@@ -1,0 +1,3 @@
+import classRPS
+
+classRPS.main()
