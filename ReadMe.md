@@ -35,7 +35,7 @@
 <br>
 <li><b>Πρώτη Εργαστηριακή Άσκηση</b></li>
 <ul>
- <li>Πρώτη εργασία:<a href="Assignment_1">Assignment_1</a></li>
+ <li>Πρώτη εργασία:<a href="ASSIGNMENT_1">Assignment_1</a></li>
  <li>Παιχνίδι βασισμένο σε MockUp σχεδιάγραμμα:<a href="RPS_MockUp">Qt MockUp Based</a></li>
 </ul><br>
  <li><b>Δεύτερη Εργασία</b></li>
