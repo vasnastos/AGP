@@ -38,6 +38,14 @@
  <li>Πρώτη εργασία:<a href="Assignment_1">Assignment_1</a></li>
  <li>Παιχνίδι βασισμένο σε MockUp σχεδιάγραμμα:<a href="RPS_MockUp">Qt MockUp Based</a></li>
 </ul>
+ <li><b>Δεύτερη Εργασία</b></li>
+ <ul>
+  <li>Regex CheatSheet:<a href="https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/">Cheatsheet</a></li>
+  <li>Εκφώνηση Εργασίας:<a href="https://chgogos.github.io/dituoi_agp/resources/agp_assignment20210329.pdf">github_Regex</a></li>
+  <li>Σελίδα Εργασίας:<a href="">github page</a></li>
+ </ul>
+   <br>
+ </ul>
  <br>
  <hr>
 <a href="https://vasnastos.github.io/AGP/"><img src="https://icons-for-free.com/iconfiles/png/512/internet+web+website+icon-1320183419780460914.png" width="25px" height=25px>WebSite</a><br>
