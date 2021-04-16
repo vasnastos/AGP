@@ -1,0 +1,237 @@
+<html>
+    <head>
+        <title>ΜΑΘΗΜΑ 5</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta charset="utf-8">
+        <style>
+            body
+            {
+                background-color:lightgray;
+                margin:0;
+                font-family:calibri;
+                font-size:16px;
+            }
+            .adiv{
+                margin-left:60px;
+                width:40%;
+                text-align:left;
+            }
+            .dropbtn {
+  background-color: blue;
+  color: white;
+  text-decoration: underline;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+i{
+    margin-left:3px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+tab
+{
+    padding-right:-4em;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.span.inline
+{
+    display:inline;
+    width:20%;
+    height:auto;
+    padding:20px;
+    margin-right:100px;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #b4c1db;
+}
+
+.menu
+{
+    background-color: lightgrey;
+    width:auto;
+}
+
+.git
+{
+   color:white;
+   background-color:blue;
+   font-size:16px;
+   padding:16px;
+   margin-right:3px;
+   text-decoration:underline;
+   border:none;
+   float:center;
+}
+
+.git:hover
+{
+    background-color:white;
+    color:blue;
+}
+
+.codeblock{
+    width:40%;
+    height:70%;
+    text-align:left;
+    background-color:gray;
+    color:black;
+    font-weight:bold;
+    display: inline-block;
+    overflow: scroll;
+    margin-right:40px;
+}
+
+.presentation
+{
+    display:inline-block;
+    width:40%;
+    height:70%;
+}
+
+</style>
+    </head>
+<body>
+    <center>
+    <div class="menu">
+    <span class="inline">
+       <a href="https://vasnastos.github.io/AGP/"><button class="git">PAGE<i class='fa fa-sitemap'></i></button></a>
+    </span>
+    <span class="inline">
+    <div class="dropdown">
+        <button class="dropbtn">Μαθήματα <i class="fa fa-code"></i></button>
+        <div class="dropdown-content">
+        <a href="../L01/lesson_1.html">ΜΑΘΗΜΑ 1</a>
+        <a href="../L02/lesson_2.html">ΜΑΘΗΜΑ 2</a>
+        <a href="../L03/lesson_3.html">ΜΑΘΗΜΑ 3</a>
+        <a href="../L04/lesson_4.html">ΜΑΘΗΜΑ 4</a>
+        <a href="./lesson_5.html"><b style="color:brown;">ΜΑΘΗΜΑ 5</b></a>
+        </div>
+    </div>
+    </span>
+    <span class="inline">
+        <a href="https://github.com/vasnastos"><button class="git">Github<i class="fa fa-github"></i></button></a>
+      </span>
+    </div>
+    <br>
+<h1>Μάθημα 5</h1>
+<hr style="border-top:2px solid green;">
+<div class="adiv">
+<h2><u>Δεύτερη Εργαστηριακή άσκηση<a href=""><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="20px" height="20px"></a></u></h2>
+    <i class="fa fa-star"></i>Εύρεση Αρχεία από φάκελο oop-master:<a href="Show_File_List/"><i class="fa fa-file-code-o"></i></a><br>
+    <i class="fa fa-star"></i>Σημαντικές Πηγές εκκίνησης Εργασίας<br>
+  <br><br><h2><u>Κεφάλαιο 5 κώδικες</u></h2>
+<i class="fa fa-star"></i>Notebook Εργαστηρίου<a href="files.ipynb"><abbr title="Λαβ Notebook"><i class="fa fa-file-code-o" style="height:24px;"></i></abbr></abbr></a>
+<br><i class="fa fa-star"></i>table scrap:<a href="./scrap_table.py"><abbr title="table scrap"><i class="fa fa-file-code-o" style="height:24px;"></i></abbr></abbr></a>
+<br><i class="fa fa-star"></i>Εύρεση στοιχείων αρχείων με plotting:<a href="./Show_File_List/File_Detector/plotting.py"><abbr title="matplotlib"><i class="fa fa-file-code-o" style="height:24px;"></i></abbr></abbr></a>
+<br><i class="fa fa-star"></i>Επίλυση Εργαστηριακής Άσκησης 1:<a href="https://github.com/vasnastos/AGP/tree/master/ASSIGNMENT_1"><abbr title="Assignment_1"><i class="fa fa-file-code-o" style="height:24px;"></i></a><br>
+<br>
+<h3>Aποτελέσματα</h3>
+<i class="fa fa-star"></i>Savefile<a href="./savefile"><abbr title="Save  file"><i class="fa fa-file-code-o" style="height:24px;"></i></abbr></abbr></a>
+</div>
+<br><br><br>
+<h2><u>ΣΗΜΑΝΤΙΚΑ ΑΡΧΕΙΑ</u></h2>
+<div class="codeblock">
+    <i style="color:brown; font-size:20px;">Κώδικας Αναγνώρισης Αρχείων oop-master,και εύρεσης γραμμών κώδικα</i><br>
+    <br>
+    import os<br>
+    import re<br>
+    from time import time<br>
+    import termcolor as tm<br>
+    <b style="margin-left:5px;">
+    parentroot='REPOSITORIES/oop-master'
+    </b>
+    <b style="margin-left:5px;">def file_parser():</b><br>
+    <b style="margin-left:10px;">starttime=time()</b><br>
+    <b style="margin-left:10px;">allfiles=[]</b><br>
+    <b style="margin-left:10px;"> try:</b><br>
+    <b style="margin-left:15px;">for path,_,file in os.walk(top=parentroot,topdown=True):</b><br>
+                <b style="margin-left: 20px;">allfiles+=[path+'/'+l for l in file if l.endswith('.cpp') or l.endswith('.c') or l.endswith('.hpp') or l.endswith('.h')]</b><br>
+    <b style="margin-left:10px;">except Exception:</b><br>
+    <b style="margin-left:15px;">print('Can not open folder oop-master')</b><br>
+    <b style="margin-left:15px;">return list([])</b><br>
+    <b style="margin-left:10px;">tm.cprint('Elapsed Time for file opening:'+str(time()-starttime)+' s','red')</b><br>
+    <b style="margin-left:10px;">return allfiles</b><br>
+    <br>
+    <b style="margin-left:5px;">files=file_parser()</b><br>
+    <br>
+    <br>
+    <b style="margin-left:5px;">def filesbycategory():</b><br>
+    <b style="margin-left:10px;">counter={'cpp':0,'hpp':0,'h':0,'c':0}</b><br>
+    <b style="margin-left:5px;">starttime=time()</b><br>
+    <b style="margin-left:15px;">for x in files:</b><br>
+    <b style="margin-left:20px;">if re.match('.+\.cpp$',x):</b><br> 
+                #if x.endswith('.cpp'):
+                <b style="margin-left:25px;">counter['cpp']+=1</b><br>
+                <b style="margin-left:20px;">elif x.endswith('.hpp'):</b><br>
+                <b style="margin-left:25px;">counter['hpp']+=1</b><br>
+                <b style="margin-left:20px;">elif x.endswith('.h'):</b><br>
+                <b style="margin-left:25px;">counter['h']+=1</b><br>
+                <b style="margin-left:20px;">else:</b><br>
+                <b style="margin-left:25px;">counter['c']+=1</b><br>
+        
+            <b style="margin-left:5px;">for key in counter:</b><br>
+            <b style="margin-left:10px;">tm.cprint('\t'+str(key)+'-->'+str(counter[key]),'green')</b><br>
+            <b style="margin-left:10px;">tm.cprint('=='*30,'white')</b><br>
+            <b style="margin-left:5px;">endtime=time()</b><br>
+            <b style="margin-left:5px;">tm.cprint('Lapsed Time:'+str(endtime-starttime)+' s','red')</b><br>
+    <br>
+        <b style="margin-left:5px;">def codelines():</b>
+        <b style="margin-left:10px;">starttime=time()</b><br>
+        <b style="margin-left:10px;">linecounter=0</b><br>
+        <b style="margin-left:10px;">for i in files:</b><br>
+        <b style="margin-left:15px;">with open(i,'r',encoding="utf-8",errors='ignore') as f:</b><br>
+        <b style="margin-left:20px;">for j in f:</b><br>
+        <b style="margin-left:25px;">if len(j.strip())!=0:</b><br>
+        <b style="margin-left:30px;">linecounter+=1</b><br>
+        <b style="margin-left:10px;">tm.cprint('Lines of code:'+str(linecounter),'red')</b><br>
+        <b style="margin-left:10px;">tm.cprint('Elapsed Time for finding all lines of code:'+str(time()-starttime)+'\'s','red')</b><br>
+    <br>
+      <br>
+    #filesbycategory()<br>
+    #print('=='*30)<br>
+    <b style="margin-left:5px;">codelines()</b><br>
+    <b style="margin-left:5px;">#print('=='*30)
+  </b>  <br>
+</div>
+<iframe class="presentation" src="./git_presentation.pdf"></iframe>
+<br><br>
+<div style="width:40%; display:inline-block; font-size:26px; font-weight:bold; color:brown; margin-right:40px;">
+    <center><a href="basecode.py"><i class="fa fa-file-code-o"></i></a></center>
+</div>
+<div style="width:40%; display:inline-block; font-size:26px; font-weight:bold; color:brown;">
+    <center><a href="./git_presentation.pptx"><i class="fa fa-file-powerpoint-o"></i></a></center>
+</div>
+<br><br>
+<hr>
+AGP is maintained by <a href="https://vasnastos.github.io/">vasnastos</a><a href="https://www.linkedin.com/in/vasileios-nastos-028985209/"><i class="fa fa-linkedin"></i></a>
+<br><br>
+</center>
+</body>
+</html>
