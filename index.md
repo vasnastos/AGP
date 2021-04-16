@@ -72,6 +72,7 @@
   <li>Ενισχυτικό 2:<a href="./L02/lesson_2.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 3:<a href="./L03/lesson_3.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 4:<a href="./L04/lesson_4.html"><i class="fa fa-university">Lesson</i></a></li>
+  <li>Ενισχυτικό 5:<a href="./L05/lesson_5.html"><i class="fa fa-university">Lesson</i></a></li>
   </ul>
    </body>
   </html>
