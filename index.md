@@ -73,7 +73,7 @@
   <li>Ενισχυτικό 3:<a href="./L03/lesson_3.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 4:<a href="./L04/lesson_4.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 5:<a href="./L05/lesson_5.html"><i class="fa fa-university">Lesson</i></a></li>
-  <li>Ενισχυτικό 6:<a href="https://vasnastos.github.io/Assignment_AGP/"><i class="fa fa-university">Lesson</a></li>
+  <li>Ενισχυτικό 6:<a href="https://vasnastos.github.io/Assignment_AGP/"><i class="fa fa-university"></i>Lesson</a></li>
   </ul>
    </body>
   </html>
