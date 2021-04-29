@@ -43,7 +43,7 @@
   <li>Regex CheatSheet:<a href="https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/">Cheatsheet</a></li>
   <li>Εκφώνηση Εργασίας:<a href="https://chgogos.github.io/dituoi_agp/resources/agp_assignment20210329.pdf">github_Regex</a></li>
   <li>Σελίδα Εργασίας:<a href="https://vasnastos.github.io/Assignment_AGP/">github page</a></li>
-  <li>Sources:<a href="https://github.com/vasnastos/Assignment_AGP"></a></li>
+  <li>Sources:<a href="https://github.com/vasnastos/Assignment_AGP">Assignment</a></li>
  </ul>
    <br>
  </ul>
