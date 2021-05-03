@@ -1,0 +1,80 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ GIT INDEX ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      		ΔΗΜΙΟΥΡΓΙΑ ΑΡΧΕΙΟΥ README ΣΤΟ ΚΥΡΙΟ BRANCH  
+         -Επιλέγω τον φάκελο που θα κλωνοποιήσω το αποθετήριο μου
+		1.git clone <repo-url>
+                2.echo "# Assignment_AGP(Περιεχόμενο)">>ReadMe.md
+		3.git init
+		4.git add Readme.md
+		5.git commit -m "commit message"
+                6.git branch -M  Master
+		7.git remote add origin <repo-url>
+		8.git push -u origin main
+      ===========================================================================
+		ΣΕΤΑΡΙΣΜΑ ΟΝΟΜΑ ΧΡΗΣΤΗ ΚΑΙ ΗΛΕΚΤΡΟΝΙΚΗΣ ΔΙΕΥΘΥΝΣΗΣ
+        -Setup Username           
+           1.git config --global user.name "FIRST_NAME LAST_NAME"
+	-Setup Mail
+	   2.git config --global user.email "MY_NAME@example.com"
+
+       =============================================================================
+		ΔΙΑΧΕΙΡΙΣΗ BRANCH
+ 	     1.git branch(Λίστα με brances του αποθετηρίου)
+	     2.git branch -d branch_name(Διαγραφή ενός branch[Ασφαλής])
+	     3.git checkout -b new_branch_name(Δημιουργία ενός branch)
+	     4.git checkout branch_name(Μετάβαση σε διαφορετικό branch)
+	     5.Η εντολές commit και push μπορούν να χρησιμοποιηθούν με παρόμοιο
+			 τρόπο και στο συγκεκριμένο branch
+
+		ΔΙΑΓΡΑΦΗ ΑΡΧΕΙΟΥ
+		 1.Ευρεση αρχείου στον local cloned φάκελο του αποθετηρίου
+		 2.git rm όνομα φακέλου-Μονοπάτι στον φάκελο
+	==============================================================================
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ GIT INDEX ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      		ΔΗΜΙΟΥΡΓΙΑ ΑΡΧΕΙΟΥ README ΣΤΟ ΚΥΡΙΟ BRANCH  
+         -Επιλέγω τον φάκελο που θα κλωνοποιήσω το αποθετήριο μου
+		1.git clone <repo-url>
+                2.echo "# Assignment_AGP(Περιεχόμενο)">>ReadMe.md
+		3.git init
+		4.git add Readme.md
+		5.git commit -m "commit message"
+                6.git branch -M  Master
+		7.git remote add origin <repo-url>
+		8.git push -u origin main
+      ===========================================================================
+		ΣΕΤΑΡΙΣΜΑ ΟΝΟΜΑ ΧΡΗΣΤΗ ΚΑΙ ΗΛΕΚΤΡΟΝΙΚΗΣ ΔΙΕΥΘΥΝΣΗΣ
+        -Setup Username           
+           1.git config --global user.name "FIRST_NAME LAST_NAME"
+	-Setup Password
+	   2.git config --global user.email "MY_NAME@example.com"
+
+       =============================================================================
+		ΔΙΑΧΕΙΡΙΣΗ BRANCH
+ 	     1.git branch(Λίστα με brances του αποθετηρίου)
+	     2.git branch -d branch_name(Διαγραφή ενός branch[Ασφαλής])
+	     3.git checkout -b new_branch_name(Δημιουργία ενός branch)
+	     4.git checkout branch_name(Μετάβαση σε διαφορετικό branch)
+	     5.Η εντολές commit και push μπορούν να χρησιμοποιηθούν με παρόμοιο
+			 τρόπο και στο συγκεκριμένο branch
+
+		==============================================================================
+        ΕΝΗΜΕΡΩΣΗ ΔΙΑΦΟΡΕΤΙΚΟΥ BRANCH
+
+		Αλλαγή branch 
+			1.git checkout master
+			2.Παραγώμενο αποτέλεσμα==>~/Desktop/Assignment_AGP (master)
+			Με το όνομα του Αποθετηρίου σας(στον φάκελο που το έχετε αποθηκεύσει).
+		
+		Ανέβασμα αρχείου
+
+			1.git init
+			2.git add Git.txt
+			3.git commit -m "Git txt notes"
+			4.git push origin master
+
+	==============================================================================
+		
