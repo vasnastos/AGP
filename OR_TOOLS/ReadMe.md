@@ -1,6 +1,7 @@
 # OR_TOOLS SOLVER USING PYTHON
 
 **:point_right:pip install ortools**
+
 **:point_right:[https://developers.google.com/optimization/cp/cp_solver#python_5](https://developers.google.com/optimization/cp/cp_solver#python_5)**
 
 ## LINEAR OPTIMIZATION
