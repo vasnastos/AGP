@@ -25,6 +25,7 @@
 <li>Logging:<a href="Basics/Logging.py" target="_blank">Logging</a></li>
  <li>Βάση Δεδομένων:<a href="Basics/database.ipynb" target="_blank">Database Notebook</a></li>
  <li>Logging and Testing:<a href="Logs_And_Tests" target="_blank">Logging and Testing</a></li>
+ <li>OR_TOOLS:<a href="OR_TOOLS">ortools</a></li>
 </ul>
  <br>
  <li>Tutorial για χρήση frameworks στην Python</li>
