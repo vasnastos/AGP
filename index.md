@@ -5,7 +5,7 @@
  <style>
   .fa-university
   {
-     font-size:21px;
+     font-size:17px;
      color:blue;
   }
   </style>
@@ -47,9 +47,9 @@
   <li>Ενισχυτικό 3:<a href="./L03/lesson_3.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 4:<a href="./L04/lesson_4.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 5:<a href="./L05/lesson_5.html"><i class="fa fa-university">Lesson</i></a></li>
-  <li>Ενισχυτικό 6:<a href="https://vasnastos.github.io/Assignment_AGP/"><i class="fa fa-university"></i>Lesson</a></li>
-   <li>Ενισχυτικό 7:<a href="./L07/lesson_7.html"><i class="fa fa-university"></i>Lesson</a></li>
-   <li>Ενισχυτικό 8-9:<a href="https://vasnastos.github.io/DITUOI_AGP_SUDOKU/"><i class="fa fa-university"></i>Lesson</a></li>
+  <li>Ενισχυτικό 6:<a href="https://vasnastos.github.io/Assignment_AGP/"><i class="fa fa-university">Lesson</i></a></li>
+   <li>Ενισχυτικό 7:<a href="./L07/lesson_7.html"><i class="fa fa-university">Lesson</i></a></li>
+   <li>Ενισχυτικό 8-9:<a href="https://vasnastos.github.io/DITUOI_AGP_SUDOKU/"><i class="fa fa-university">Lesson</i></a></li>
   </ul>
    </body>
   </html>
