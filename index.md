@@ -49,6 +49,7 @@
   <li>Ενισχυτικό 5:<a href="./L05/lesson_5.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 6:<a href="https://vasnastos.github.io/Assignment_AGP/"><i class="fa fa-university"></i>Lesson</a></li>
    <li>Ενισχυτικό 7:<a href="./L07/lesson_7.html"><i class="fa fa-university"></i>Lesson</a></li>
+   <li>Ενισχυτικό 8-9:<a href="https://vasnastos.github.io/DITUOI_AGP_SUDOKU/"><i class="fa fa-university"></i>Lesson</a></li>
   </ul>
    </body>
   </html>
