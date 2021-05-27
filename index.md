@@ -1,4 +1,14 @@
 <html>
+ <head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+ <style>
+  .fa-university
+  {
+     font-size:21px;
+     color:blue;
+  }
+  </style>
  <body>
  <h1>Αρχές γλωσσών Προγραμματισμού</h1>
    <hr />
@@ -38,6 +48,7 @@
   <li>Ενισχυτικό 4:<a href="./L04/lesson_4.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 5:<a href="./L05/lesson_5.html"><i class="fa fa-university">Lesson</i></a></li>
   <li>Ενισχυτικό 6:<a href="https://vasnastos.github.io/Assignment_AGP/"><i class="fa fa-university"></i>Lesson</a></li>
+   <li>Ενισχυτικό 7:<a href="https://vasnastos.github.io/Assignment_AGP/"><i class="fa fa-university"></i>Lesson</a></li>
   </ul>
    </body>
   </html>
