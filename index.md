@@ -2,7 +2,7 @@
  <body>
  <h1>Αρχές γλωσσών Προγραμματισμού</h1>
    <hr />
-   <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px" />Εισαγωγή στην Python</h2>
+   <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="20px" />Εισαγωγή στην Python</h2>
    <hr />
    <ul>
  <li>Sum Function:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/sum.py"><i class="fa fa-codepen">Code</i></a></li>
@@ -25,7 +25,7 @@
  <li>Βάση Δεδομένων:<a href="https://github.com/vasnastos/AGP/blob/master/Basics/database.ipynb" target="_blank"><i class="fa fa-codepen">Code</i></a></li>
 </ul>
 <br />
-  <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="22px" />Tutorial για FrameWork στην Python</h2>
+  <h2><img src="https://icon-library.com/images/arrow-icon-transparent-background/arrow-icon-transparent-background-13.jpg" class="generalimage" width="22px" height="20px" />Tutorial για FrameWork στην Python</h2>
      <ul>
        <li>Tutorial:<a href="./GUI_TUTORIAL/index.html">https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html</a></li>
   </ul>
