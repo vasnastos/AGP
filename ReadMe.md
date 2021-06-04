@@ -5,9 +5,9 @@
  * Sum Function:[Sum](Basics/sum)
  * Ternary Operator:[Ternary Operator](Basics/ternary_operator.py)
  * Len Function:[len function](Basics/len.py)
- * Dictionary:[dictionary](Basics/dictionary.py)dictionary
- * Format:[formatting](Basics/format.py)format
- * Comprehensions:[comprehensions](Basics/comprehensions.py>compehensions
+ * Dictionary:[dictionary](Basics/dictionary.py)
+ * Format:[formatting](Basics/format.py)
+ * Comprehensions:[comprehensions](Basics/comprehensions.py)
  * Max:[max](Basics/max.py)
 * Αλφαριθμητικά:[strings](Basics/strings.py)
 * Δομή if_else:[if_else](Basics/if_else.py)
