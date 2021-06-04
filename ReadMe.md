@@ -1,0 +1,53 @@
+# ΑΡΧΕΣ ΓΛΩΣΣΩΝ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
+
+#### ΕΙΣΑΓΩΓΗ ΣΤΗΝ PYTHON
+    
+ * Sum Function:[Sum](Basics/sum)
+ * Ternary Operator:[Ternary Operator](Basics/ternary_operator.py)
+ * Len Function:[len function](Basics/len.py)
+ * Dictionary:[dictionary](Basics/dictionary.py)dictionary
+ * Format:[formatting](Basics/format.py)format
+ * Comprehensions:[comprehensions](Basics/comprehensions.py>compehensions
+ * Max:[max](Basics/max.py)
+* Αλφαριθμητικά:[strings](Basics/strings.py)
+* Δομή if_else:[if_else](Basics/if_else.py)
+* Αρχεία(txt):[file folder](Basics/file(txt))
+* Αρχεία(csv):[file folder](Basics/file(csv))
+* Κλάσεις:[class](Basics/class.py)
+* Συνδεδεμένη λίστα:[list](Basics/linked_list.py)
+* Κανονική έκφραση(mail):[mail_regex](Basics/mail.py)
+* Custom Modules:[modules](Basics/modules)
+* Unit Testing:[testing](Basics/testing.py)
+* Logging:[logging](Basics/Logging.py)
+ * Βάση Δεδομένων:[database_notebook](Basics/database.ipynb)
+ * Logging and Testing:[logging_tesing](Logs_And_Tests)
+ * OR_TOOLS:[ortools](OR_TOOLS)
+ * FrameWork Tutorial:[https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html](https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html)
+
+
+#### ΕΡΓΑΣΤΗΡΙΑΚΕΣ ΑΣΚΗΣΕΙΣ
+
+**Πρώτη Εργαστηριακή Άσκηση**
+    
+* Πρώτη εργασία:[Assignment_1](ASSIGNMENT_1)
+    
+* Παιχνίδι βασισμένο σε MockUp σχεδιάγραμμα:[Qt MockUp Based](RPS_MockUp)
+    
+**Δεύτερη Εργαστηριακή Άσκηση**
+  
+  * Regex CheatSheet:[Cheatsheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf_bw/)
+  * Εκφώνηση Εργασίας:[github_Regex](https://chgogos.github.io/dituoi_agp/resources/agp_assignment20210329.pdf)
+  * Σελίδα Εργασίας:[github_page](https://vasnastos.github.io/Assignment_AGP/)
+  * Sources:[Assignment](https://github.com/vasnastos/Assignment_AGP)
+ 
+
+**Τρίτη Εργαστηριακή Άσκηση**
+
+
+#### ΕΠΑΝΑΛΗΨΗ ΣΤΗΝ PYTHON
+
+
+
+#### ΧΡΗΣΙΜΑ LINKS
+
+* ΣΕΛΙΔΑ AGP:[WebSite](https://vasnastos.github.io/AGP/)
