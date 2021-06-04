@@ -2,7 +2,7 @@
 
 #### ΕΙΣΑΓΩΓΗ ΣΤΗΝ PYTHON
     
- * Sum Function:[Sum](Basics/sum)
+ * Sum Function:[Sum](Basics/sum.py)
  * Ternary Operator:[Ternary Operator](Basics/ternary_operator.py)
  * Len Function:[len function](Basics/len.py)
  * Dictionary:[dictionary](Basics/dictionary.py)
