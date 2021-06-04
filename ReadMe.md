@@ -42,7 +42,8 @@
  
 
 **Τρίτη Εργαστηριακή Άσκηση**
-
+   * Πρότυπο Εργασίας:[sudoku_template](https://github.com/vasnastos/AGP/raw/master/Assignment_3/assignmentDitSudoku.zip)
+   * Ιστοσελίδα Εργασίας:[sudoku page](https://vasnastos.github.io/DITUOI_AGP_SUDOKU/)
 
 #### ΕΠΑΝΑΛΗΨΗ ΣΤΗΝ PYTHON
 
