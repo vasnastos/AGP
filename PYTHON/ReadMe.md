@@ -14,6 +14,8 @@
   * [string2.py](STRINGS/string2.py)
   * [string3.py](STRINGS/string3.py)
   * [string4.py](STRINGS/string4.py)
+  * [string5.py](STRINGS/string5.py)
+  * [string6.py](STRINGS/string6.py)
 
 ## ΛΙΣΤΕΣ
 
