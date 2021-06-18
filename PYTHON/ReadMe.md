@@ -71,6 +71,38 @@
 * [scope5.py](SCOPE/scope5.py)
 * [scope6.py](SCOPE/scope6.py)
 
+## COMPREHENSIONS
+
+**Η python φημίζεται για το ότι επιτρέπει στον χρήστη να γράψει εκλεπτυσμένο κώδικα,δηλαδή κώδικα εύκολο στην συγγραφή του και εύκολο στην ανάγνωση του(σαν καθημερινή γλώσσα).Τα Comprehensions είναι ένα  από τα μοναδικότερα χαρακτηριστικά της python.Με τα Comprehensions επιτυνχάνεται δυναμική λειτουργικότητα σε μόνο μία γραμμή κώδικα.**
+
+  > * List Comprehension για δημιουργία μίας λίστας με 10 τυχαίους αριθμούς
+  ```
+    import random as r
+    from time import time
+    r.seed(time()*1000)
+    alist=[r.randint(1,1000) for _ in range(10)]
+    print(alist)
+  ```
+  
+  > * List Comprehension για filtering λίστας
+
+  ```
+    import random as r
+    from time import time
+    r.seed(time()*1000)
+    alist=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+    odd_numbers=[x for x in alist if x%2!=0]
+    print(odd_numbers)
+  ```
+
+
+  <br>
+
+
+  >**Σύνταξη:expression for member in iterable (if condition)]**
+
+ 
+
 
 
 
