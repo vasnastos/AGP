@@ -105,6 +105,15 @@
 
   >**Σύνταξη:expression for member in iterable (if condition)]**
 
+
+### ΠΑΡΑΔΕΙΓΜΑΤΑ ΜΕ COMPREHENSIONS
+
+* [comprehension1.py](COMPREHENSIONS/comprehension1.py)
+* [comprehension2.py](COMPREHENSIONS/comprehension2.py)
+* [comprehension3.py](COMPREHENSIONS/comprehension3.py)
+* [comprehension4.py](COMPREHENSIONS/comprehension4.py)
+* [comprehension5.py](COMPREHENSIONS/comprehension5.py)
+
  
 
 
