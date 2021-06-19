@@ -40,6 +40,7 @@ def Distinct_Letters(word):
 
 #5.Given a sentence, return the sentence with all vowels removed,using list comprehension.
 def Remove_vowels(sentence):
+    vowels=['a','o','i','e','u']
     """
     Remove_vowels
     >>Remove_vowels('Hello word')
