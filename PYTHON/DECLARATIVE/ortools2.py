@@ -1,27 +1,26 @@
-def LineDifferent():
-   from ortools.sat.python import cp_model
-   model=cp_model.CpModel()
-   board1=[model.NewIntVar(1,10,'var{}'.format(i+1)) for i in range(10)]
-   board2=[model.NewIntVar(1,10,'var{}'.format(i+1)) for i in range(10)]
-   model.AddAllDifferent(board1)
-   model.AddAllDifferent(board2)
-   for i in range(10):
-       model.Add(board1[i]!=board2[i])
+from ortools.sat.python import cp_model
 
-   solver=cp_model.CpSolver()
-   status=solver.Solve(model)
-   print(solver.StatusName(status))
-   if status==cp_model.OPTIMAL:
-       b1=''
-       b2=''
-       for i in range(len(board1)):
-        b1+=str(solver.Value(board1[i]))+'\t'
-        b2+=str(solver.Value(board2[i]))+'\t'
-       print('Solutions')
-       print('Board1:'+b1)
-       print('Board2:'+b2)
-   print('Exec Time:{}'.format(solver.WallTime()))
+# Δημιουργία μοντέλου
+model = cp_model.CpModel()
 
-LineDifferent()
-       
-    
+# Μεταβλητές απόφασης
+x = model.NewIntVar(0, 9, "x")
+y = model.NewIntVar(0, 9, "y")
+z = model.NewIntVar(0, 9, "z")
+
+# Περιορισμοί
+model.Add(x + y + z == 15)
+model.Add(x > y)
+model.Add(z != 0)
+model.AddAllDifferent([x, y, z])
+
+# Δημιουργία του επιλυτή
+solver = cp_model.CpSolver()
+
+# Κλήση του επιλυτή
+status = solver.Solve(model)
+
+# Εμφάνιση λύσης
+if status == cp_model.OPTIMAL:
+    for decisionVariable in [x, y, z]:
+        print(f"{decisionVariable}={solver.Value(decisionVariable)}")
