@@ -52,7 +52,7 @@
    <li>Ενισχυτικό 8-9:<a href="https://vasnastos.github.io/DITUOI_AGP_SUDOKU/"><i class="fa fa-university">Lesson</i></a></li>
   </ul>
   
-  *[ΕΠΑΝΑΛΗΨΗ ΣΤΗΝ PYTHON](./final.md)
+  * [ΕΠΑΝΑΛΗΨΗ ΣΤΗΝ PYTHON](./final.md)
   
    </body>
   </html>
