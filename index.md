@@ -10,7 +10,7 @@
 * ##### Len Function:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/len.py)
 * ##### Dictionary:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/dictionary.py)
 * ##### Format:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/format.py)
-* ##### Comprehensions:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/compehensions.py)
+* ##### Comprehensions:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/comprehensions.py)
 * ##### Max:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/max.py)
 * ##### Αλφαριθμητικά:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/strings.py)
 * ##### Δομή if_else:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/if_else.py)
