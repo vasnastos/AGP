@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <math.h>
 
-void changeVal(int k)
+void changeVal(int *k)
 {
-    k++;
-    printf("New K Value:%d\n",k);
+    (*k)++;
+    printf("New K Value:%d\n",*k);
 }
 
 void readM(double m)
@@ -21,5 +21,6 @@ int main()
    readM(a);
    readM(b);
    printf("A:%d\tB:%d",a,b);
+
    return 0;
 }
