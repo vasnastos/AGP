@@ -45,31 +45,6 @@
    * Πρότυπο Εργασίας:[sudoku_template](https://github.com/vasnastos/AGP/raw/master/Assignment_3/assignmentDitSudoku.zip)
    * Ιστοσελίδα Εργασίας:[sudoku page](https://vasnastos.github.io/DITUOI_AGP_SUDOKU/)
 
-# Αρχές γλωσσών Προγραμματισμού
-   ---
-## :paperclip:Εισαγωγή στην Python
-
-* Sum Function:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/sum.py)
-* Ternary Operator:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/ternary_operator.py")
-* Len Function:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/len.py")
-* Dictionary:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/dictionary.py)
-* Format:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/format.py)
-* Comprehensions:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/compehensions.py)
-* Max:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/max.py)
-* Αλφαριθμητικά:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/strings.py)
-* Δομή if_else:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/if_else.py)
-* Αρχεία(txt):[:radio_button:](https://github.com/vasnastos/AGP/tree/master/Basics/file(txt))
-* Αρχεία(csv):[:radio_button:](https://github.com/vasnastos/AGP/tree/master/Basics/file(csv))
-* Κλάσεις:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/class.py)
-* Συνδεδεμένη λίστα:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/linked_list.py)
-* Κανονική έκφραση(mail):[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/mail.py)
-* Custom Modules:[:radio_button:](https://github.com/vasnastos/AGP/tree/master/Basics/modules)
-* Unit Testing:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/testing.py)
-* Logging:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/Logging.py)
-* Βάση Δεδομένων:[:radio_button:](https://github.com/vasnastos/AGP/blob/master/Basics/database.ipynb)
-## :paperclip:Tutorial για FrameWork στην Python
-       * Tutorial:[:radio_button:](https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html)
-
 ## :paperclip:ΕΝΙΣΧΥΤΙΚO
   * Ενισχυτικό 1:[Lesson](./L01/lesson_1.html)
   * Ενισχυτικό 2:[Lesson](./L02/lesson_2.html)
