@@ -114,8 +114,14 @@
 * [comprehension4.py](COMPREHENSIONS/comprehension4.py)
 * [comprehension5.py](COMPREHENSIONS/comprehension5.py)
 
- 
+## OOP--PYTHON
 
+### ΠΑΡΑΔΕΙΓΜΑΤΑ ΜΕ OOP
+* [oop1.py](OOP/oop1.py)
+* [oop2.py](OOP/oop2.py)
+* [oop3.py](OOP/oop3.py)
+* [oop4.py](OOP/oop4.py)
+* [oop5.py](OOP/oop5.py)
 
 
 
