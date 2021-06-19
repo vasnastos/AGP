@@ -1,4 +1,4 @@
-from random import randint
+from random import randint,seed
 import datetime
 from tabulate import tabulate
 
@@ -18,6 +18,7 @@ class RPS:
             player=input('Invallid Move\nGive your Move(R|P|S):')
         print('\n\n')
         computer=moves[randint(0,2)]
+        # x=randint(0,2)-->0,1,2
         outcome=''
         if player==computer:
             print('Tie Round')
@@ -41,9 +42,16 @@ class RPS:
         self.game.append([self.pw,self.cw,'TOTAL'])
         print(tabulate(self.game,headers=['PLAYER','COMPUTER',''],tablefmt='fancy_grid'))
 
-
-if __name__=='__main__':
+def main():
     G=RPS()
     s=int(input('Give number of rounds:'))
     print('\n\n')
     G.Rounds(s)
+
+if __name__=='__main__':
+   import time 
+#    seed(time.time()*1000)
+   seed(12345)
+   y=randint(1,10)
+   x=randint(1,10)
+   print(x,y)

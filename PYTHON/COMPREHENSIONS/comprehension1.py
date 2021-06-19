@@ -1,6 +1,9 @@
 # ΔΗΜΙΟΥΡΓΙΑ ΑΝΤΙΓΡΑΦΟΥ ΜΙΑΣ ΛΙΣΤΑΣ
 
 mylist=[1,2,3,4,56,7,8,9,13]
+blist=[x for x in mylist if x%2==0]
+print(blist)
+#-->4,56,8,2
 
 # Α τρόπος
 copy=mylist.copy()

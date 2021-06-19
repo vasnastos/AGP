@@ -6,13 +6,14 @@ class Person:
         Person.objectcounter+=1
     
     def __str__(self):
-        return f'{self.name}:{self.age}'
+        return f'Το όνομα μου είναι {self.name}:και είμαι {self.age} ετών'
 
 if __name__=='__main__':
     P1=Person()
     P2=Person('vasilis')
     P3=Person('vasilis',22)
-    print(str(P1))
-    print(str(P2))
-    print(str(P3))
+    print(P1.name,P1.age)
+    print(P3)
+    print(P2)
+    print(P3)
     print(f'Objects Created:{Person.objectcounter}')
