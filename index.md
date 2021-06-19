@@ -1,28 +1,28 @@
 # ΑΡΧΕΣ ΓΛΩΣΣΩΝ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
 
+### [🔘]
+
 ## 📎ΕΙΣΑΓΩΓΗ ΣΤΗΝ PYTHON
     
- * Sum Function:[Sum](Basics/sum.py)
- * Ternary Operator:[Ternary Operator](Basics/ternary_operator.py)
- * Len Function:[len function](Basics/len.py)
- * Dictionary:[dictionary](Basics/dictionary.py)
- * Format:[formatting](Basics/format.py)
- * Comprehensions:[comprehensions](Basics/comprehensions.py)
- * Max:[max](Basics/max.py)
-* Αλφαριθμητικά:[strings](Basics/strings.py)
-* Δομή if_else:[if_else](Basics/if_else.py)
-* Αρχεία(txt):[file folder](Basics/file(txt))
-* Αρχεία(csv):[file folder](Basics/file(csv))
-* Κλάσεις:[class](Basics/class.py)
-* Συνδεδεμένη λίστα:[list](Basics/linked_list.py)
-* Κανονική έκφραση(mail):[mail_regex](Basics/mail.py)
-* Custom Modules:[modules](Basics/modules)
-* Unit Testing:[testing](Basics/testing.py)
-* Logging:[logging](Basics/Logging.py)
- * Βάση Δεδομένων:[database_notebook](Basics/database.ipynb)
- * Logging and Testing:[logging_tesing](Logs_And_Tests)
- * OR_TOOLS:[ortools](OR_TOOLS)
- * FrameWork Tutorial:[https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html](https://vasnastos.github.io/AGP/GUI_TUTORIAL/index.html)
+    
+ * Sum Function:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/sum.py)
+* Ternary Operator:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/ternary_operator.py)
+* Len Function:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/len.py)
+* Dictionary:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/dictionary.py)
+* Format:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/format.py)
+* Comprehensions:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/compehensions.py)
+* Max:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/max.py)
+* Αλφαριθμητικά:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/strings.py)
+* Δομή if_else:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/if_else.py)
+* Αρχεία(txt):### [🔘](https://github.com/vasnastos/AGP/tree/master/Basics/file(txt))
+* Αρχεία(csv):### [🔘](https://github.com/vasnastos/AGP/tree/master/Basics/file(csv))
+* Κλάσεις:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/class.py)
+* Συνδεδεμένη λίστα:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/linked_list.py)
+* Κανονική έκφραση(mail):### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/mail.py)
+* Custom Modules:### [🔘](https://github.com/vasnastos/AGP/tree/master/Basics/modules)
+* Unit Testing:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/testing.py)
+* Logging:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/Logging.py)
+ * Βάση Δεδομένων:### [🔘](https://github.com/vasnastos/AGP/blob/master/Basics/database.ipynb)
 
 
 #### ΕΡΓΑΣΤΗΡΙΑΚΕΣ ΑΣΚΗΣΕΙΣ
@@ -45,7 +45,7 @@
    * Πρότυπο Εργασίας:[sudoku_template](https://github.com/vasnastos/AGP/raw/master/Assignment_3/assignmentDitSudoku.zip)
    * Ιστοσελίδα Εργασίας:[sudoku page](https://vasnastos.github.io/DITUOI_AGP_SUDOKU/)
 
-## :paperclip:ΕΝΙΣΧΥΤΙΚO
+## 📎ΕΝΙΣΧΥΤΙΚO
   * Ενισχυτικό 1:[Lesson](./L01/lesson_1.html)
   * Ενισχυτικό 2:[Lesson](./L02/lesson_2.html)
   * Ενισχυτικό 3:[Lesson](./L03/lesson_3.html)
