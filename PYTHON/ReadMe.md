@@ -1,7 +1,9 @@
 # ΕΠΑΝΗΛΗΨΗ ΒΑΣΙΚΩΝ ΕΝΝΟΙΩΝ ΣΤΗΝ PYTHON
 
 > ΑΡΧΕΣ ΓΛΩΣΣΩΝ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
+ 
 > ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ ΚΑΙ ΤΗΛΕΠΙΚΟΙΝΩΝΙΩΝ-ΕΞΑΜΗΝΟ 4ο
+
 > ΑΡΤΑ,2021
 
 ---
@@ -14,6 +16,8 @@
   * [string2.py](STRINGS/string2.py)
   * [string3.py](STRINGS/string3.py)
   * [string4.py](STRINGS/string4.py)
+  * [string5.py](STRINGS/string5.py)
+  * [string6.py](STRINGS/string6.py)
 
 ## ΛΙΣΤΕΣ
 
@@ -100,6 +104,15 @@
 
 
   >**Σύνταξη:expression for member in iterable (if condition)]**
+
+
+### ΠΑΡΑΔΕΙΓΜΑΤΑ ΜΕ COMPREHENSIONS
+
+* [comprehension1.py](COMPREHENSIONS/comprehension1.py)
+* [comprehension2.py](COMPREHENSIONS/comprehension2.py)
+* [comprehension3.py](COMPREHENSIONS/comprehension3.py)
+* [comprehension4.py](COMPREHENSIONS/comprehension4.py)
+* [comprehension5.py](COMPREHENSIONS/comprehension5.py)
 
  
 
