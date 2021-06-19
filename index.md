@@ -32,9 +32,9 @@
 
 **Πρώτη Εργαστηριακή Άσκηση**
     
-* Πρώτη εργασία:[Assignment_1](ASSIGNMENT_1)
+* Πρώτη εργασία:[Assignment_1](https://github.com/vasnastos/AGP/tree/master/ASSIGNMENT_1)
     
-* Παιχνίδι βασισμένο σε MockUp σχεδιάγραμμα:[Qt MockUp Based](RPS_MockUp)
+* Παιχνίδι βασισμένο σε MockUp σχεδιάγραμμα:[Qt MockUp Based](https://github.com/vasnastos/AGP/blob/master/ASSIGNMENT_1/rps.png)
     
 **Δεύτερη Εργαστηριακή Άσκηση**
   
