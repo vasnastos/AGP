@@ -24,8 +24,11 @@
 * #### Logging:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/Logging.py)
  * #### Βάση Δεδομένων:[🔘](https://github.com/vasnastos/AGP/blob/master/Basics/database.ipynb)
 
+<br>
+<br>
 
-#### ΕΡΓΑΣΤΗΡΙΑΚΕΣ ΑΣΚΗΣΕΙΣ
+
+## 📎ΕΡΓΑΣΤΗΡΙΑΚΕΣ ΑΣΚΗΣΕΙΣ
 
 **Πρώτη Εργαστηριακή Άσκηση**
     
@@ -44,6 +47,9 @@
 **Τρίτη Εργαστηριακή Άσκηση**
    * Πρότυπο Εργασίας:[sudoku_template](https://github.com/vasnastos/AGP/raw/master/Assignment_3/assignmentDitSudoku.zip)
    * Ιστοσελίδα Εργασίας:[sudoku page](https://vasnastos.github.io/DITUOI_AGP_SUDOKU/)
+
+<br><br>
+
 
 ## 📎ΕΝΙΣΧΥΤΙΚO
   * Ενισχυτικό 1:[Lesson](./L01/lesson_1.html)
