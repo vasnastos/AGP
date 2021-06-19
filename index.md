@@ -1,6 +1,6 @@
 # ΑΡΧΕΣ ΓΛΩΣΣΩΝ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
 
-#### ΕΙΣΑΓΩΓΗ ΣΤΗΝ PYTHON
+## 📎:ΕΙΣΑΓΩΓΗ ΣΤΗΝ PYTHON
     
  * Sum Function:[Sum](Basics/sum.py)
  * Ternary Operator:[Ternary Operator](Basics/ternary_operator.py)
