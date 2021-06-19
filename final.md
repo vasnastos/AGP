@@ -12,12 +12,12 @@
 
 ### ΠΑΡΑΔΕΙΓΜΑΤΑ ΜΕ ΑΛΦΑΡΙΘΜΗΤΙΚΑ
   
-  * [string1.py](STRINGS/string1.py)
-  * [string2.py](STRINGS/string2.py)
-  * [string3.py](STRINGS/string3.py)
-  * [string4.py](STRINGS/string4.py)
-  * [string5.py](STRINGS/string5.py)
-  * [string6.py](STRINGS/string6.py)
+  * [string1.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/STRINGS/string1.py)
+  * [string2.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/STRINGS/string2.py)
+  * [string3.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/STRINGS/string3.py)
+  * [string4.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/STRINGS/string4.py)
+  * [string5.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/STRINGS/string5.py)
+  * [string6.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/STRINGS/string6.py)
 
 ## ΛΙΣΤΕΣ
 
@@ -25,27 +25,27 @@
 
 ### ΠΑΡΑΔΕΙΓΜΑΤΑ ΜΕ ΛΙΣΤΕΣ
 
-* [list1.py](LISTS/list1.py)
-* [list2.py](LISTS/list2.py)
-* [list3.py](LISTS/list3.py)
-* [list4.py](LISTS/list4.py)
-* [list5.py](LISTS/list5.py)
-* [list6.py](LISTS/list6.py)
-* [list7.py](LISTS/list7.py)
-* [list8.py](LISTS/list8.py)
-* [list9.py](LISTS/list9.py)
-* [list10.py](LISTS/list10.py)
+* [list1.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list1.py)
+* [list2.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list2.py)
+* [list3.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list3.py)
+* [list4.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list4.py)
+* [list5.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list5.py)
+* [list6.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list6.py)
+* [list7.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list7.py)
+* [list8.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list8.py)
+* [list9.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list9.py)
+* [list10.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/LISTS/list10.py)
 
 ## ΠΛΕΙΑΔΕΣ(TUPLES)
 
 **Συλλογή από αντικείμενα που είναι προκαθορισμένο και immutable.Τα δεδομένα και το πλήθος των δεδομένων μίας πλειάδας δεν μπορεί να αλλάξει.**
 
 ### ΠΑΡΑΔΕΙΓΜΑΤΑ ΜΕ ΠΛΕΙΑΔΕΣ
-* [tuple1.py](TUPLES/tuple1.py)
-* [tuple2.py](TUPLES/tuple2.py)
-* [tuple3.py](TUPLES/tuple3.py)
-* [tuple4.py](TUPLES/tuple4.py)
-* [tuple5.py](TUPLES/tuple5.py)
+* [tuple1.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/TUPLES/tuple1.py)
+* [tuple2.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/TUPLES/tuple2.py)
+* [tuple3.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/TUPLES/tuple3.py)
+* [tuple4.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/TUPLES/tuple4.py)
+* [tuple5.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/TUPLES/tuple5.py)
 
 ## ΛΕΞΙΚΑ(DICTIONARIES)
 
@@ -53,11 +53,11 @@
 
 ### ΠΑΡΑΔΕΙΓΜΑΤΑ ΜΕ ΛΕΞΙΚΑ
 
-* [dictionary1.py](DICTIONARIES/dictionary1.py)
-* [dictionary2.py](DICTIONARIES/dictionary2.py)
-* [dictionary3.py](DICTIONARIES/dictionary3.py)
-* [dictionary4.py](DICTIONARIES/dictionary4.py)
-* [dictionary5.py](DICTIONARIES/dictionary5.py)
+* [dictionary1.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/DICTIONARIES/dict1.py)
+* [dictionary2.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/DICTIONARIES/dict2.py)
+* [dictionary3.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/DICTIONARIES/dict3.py)
+* [dictionary4.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/DICTIONARIES/dict4.py)
+* [dictionary5.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/DICTIONARIES/dict5.py)
 
 ## PYTHON SCOPE(ΕΜΒΕΛΕΙΑ)
 
@@ -68,12 +68,13 @@
 
 ### ΠΑΡΑΔΕΙΓΜΑΤΑ ΕΜΒΕΛΕΙΑΣ
 
-* [scope1.py](SCOPE/scope1.py)
-* [scope2.py](SCOPE/scope2.py)
-* [scope3.py](SCOPE/scope3.py)
-* [scope4.py](SCOPE/scope4.py)
-* [scope5.py](SCOPE/scope5.py)
-* [scope6.py](SCOPE/scope6.py)
+* [scope1.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/SCOPE/scope1.py)
+* [scope2.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/SCOPE/scope2.py)
+* [scope3.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/SCOPE/scope3.py)
+* [scope4.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/SCOPE/scope4.py)
+* [scope5.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/SCOPE/scope5.py)
+* [scope6.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/SCOPE/scope6.py)
+* [scope7.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/SCOPE/scope7.py)
 
 ## COMPREHENSIONS
 
@@ -108,28 +109,28 @@
 
 ### ΠΑΡΑΔΕΙΓΜΑΤΑ ΜΕ COMPREHENSIONS
 
-* [comprehension1.py](COMPREHENSIONS/comprehension1.py)
-* [comprehension2.py](COMPREHENSIONS/comprehension2.py)
-* [comprehension3.py](COMPREHENSIONS/comprehension3.py)
-* [comprehension4.py](COMPREHENSIONS/comprehension4.py)
-* [comprehension5.py](COMPREHENSIONS/comprehension5.py)
+* [comprehension1.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/COMPREHENSIONS/comprehension1.py)
+* [comprehension2.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/COMPREHENSIONS/comprehension2.py)
+* [comprehension3.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/COMPREHENSIONS/comprehension3.py)
+* [comprehension4.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/COMPREHENSIONS/comprehension4.py)
+* [comprehension5.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/COMPREHENSIONS/comprehension5.py)
 
-## OOP--PYTHON
+## :paperclip :OOP--PYTHON
 **Είναι μια μέθοδος δομής ενός προγράμματος με τη δέσμευση σχετικών ιδιοτήτων και συμπεριφορών σε μεμονωμένα αντικείμενα.**
 
 ### ΠΑΡΑΔΕΙΓΜΑΤΑ ΜΕ OOP
-* [oop1.py](OOP/oop1.py)
-* [oop2.py](OOP/oop2.py)
-* [oop3.py](OOP/oop3.py)
-* [oop4.py](OOP/oop4.py)
-* [oop5.py](OOP/oop5.py)
+* [oop1.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/OOP/oop1.py)
+* [oop2.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/OOP/oop2.py)
+* [oop3.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/OOP/oop3.py)
+* [oop4.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/OOP/oop4.py)
+* [oop5.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/OOP/oop5.py)
 
 ## FILES
 
 ### ΠΑΡΑΔΕΙΓΜΑΤΑ ME FILES
-* [file1.py](FILES/file1.py)
-* [file2.py](FILES/file2.py)
-* [file3.py](FILES/file3.py)
+* [file1.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/FILES/file1.py)
+* [file2.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/FILES/file2.py)
+* [file3.py](https://github.com/vasnastos/AGP/blob/master/PYTHON/FILES/file3.py)
 
 
 
