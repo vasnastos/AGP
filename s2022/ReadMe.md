@@ -29,4 +29,4 @@
 
 1. Λήψη πακέτων OpenGL:[https://github.com/glfw/glfw/releases/download/3.3.6/glfw-3.3.6.bin.WIN64.zip](https://github.com/glfw/glfw/releases/download/3.3.6/glfw-3.3.6.bin.WIN64.zip)
 2. Δημιουργία κενού project sto Visual Studio
-3.
+3. Δημιουργία φακέλου Dependencies στον κεντρικό φάκελο του project
